@@ -1,5 +1,4 @@
 # Map
-# aapppppppppppppppp
 # デバッグについて
 - URLは[http://fishingmap.github.io/Map](http://fishingmap.github.io/Map)
 - 今のところ手動更新です
