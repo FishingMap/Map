@@ -13,9 +13,10 @@
 			//Define map projection
 			var projection = d3.geo
 										.mercator()
-										.scale([1000])
-										.center([139.6423959,35.556089]);
-										.translate([w/2, h/2]);
+										.scale([20000])
+										.center([139.6423959,35.556089])
+										.translate([w/2, h/2])
+										;
 			//Define path generator
 			var path = d3.geo.path()
 							 .projection(projection);
@@ -31,13 +32,14 @@
 			d3.json("../data/eat.geojson", function(json) {
 				
 				//Bind data and create one path per GeoJSON feature
-				g.selectAll("circle")
+				svg.selectAll("circle")
 					.data(json.features)
 					.enter()
-					.attr("cx", function (d) { console.log(projection(d)); return projection(d)[0]; })
+					.append("circle")
+					.attr("cx", function (d) { return projection(d)[0]; })
 					.attr("cy", function (d) { return projection(d)[1]; })
 					.attr("r", "8px")
-					.attr("fill", "red")
+					.attr("fill", "red");
 			});
 
     </script>
