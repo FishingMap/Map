@@ -11,12 +11,12 @@
   <div id="map-canvas"></div>
     <script type="text/javascript">
 			//Width and height
-			var w = 500;
-			var h = 300;
+			var w = screen.width;
+			var h = screen.height;
 			//Define map projection
 			var projection = d3.geo
 										.mercator()
-										.scale([20000])
+										.scale([20000*(screen.width/500)])
 										.center([139.6423959,35.556089])
 										.translate([w/2, h/2])
 										;
