@@ -1,1 +1,3591 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"店名":"漁や","住所":"神奈川県藤沢市辻堂6-13-2","URL":"http://members.jcom.home.ne.jp/ryo-ya/","タイプ":"飲食店","備考":null,"LocName":"神奈川県/藤沢市/辻堂/六丁目/１３番","fX":139.44737,"fY":35.32715,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.44737,35.32715]}},{"type":"Feature","properties":{"店名":"荒川屋ダイニングバ－サンドフィッシュ（Sandfish）","住所":"神奈川県横浜市金沢区州崎町6-1","URL":"http://r.gnavi.co.jp/b799800/","タイプ":"飲食店","備考":null,"LocName":"神奈川県/横浜市/金沢区","fX":139.62445,"fY":35.33769,"iConf":5,"iLvl":4},"geometry":{"type":"Point","coordinates":[139.62445,35.33769]}},{"type":"Feature","properties":{"店名":"シーサイドスパ八景島","住所":"神奈川県横浜市金沢区 柴町361","URL":"http://www.seaside-spa.net/index.html","タイプ":"飲食店","備考":null,"LocName":"神奈川県/横浜市/金沢区/柴町/３６１番地","fX":139.6411,"fY":35.34249,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.6411,35.34249]}},{"type":"Feature","properties":{"店名":"海人市場","住所":"神奈川県三浦郡葉山町堀内1815","URL":"http://r.gnavi.co.jp/a091200/","タイプ":"飲食店","備考":null,"LocName":"神奈川県/三浦郡/葉山町/堀内/１８１５番地","fX":139.58128,"fY":35.27165,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.58128,35.27165]}},{"type":"Feature","properties":{"店名":"いのうえつりえさ店","住所":"神奈川県藤沢市江の島１丁目６?２２","URL":"http://www7a.biglobe.ne.jp/~enoshima-inouetsuriesaten/","タイプ":"飲食店","備考":null,"LocName":"神奈川県/藤沢市/江の島/一丁目/６番","fX":139.48232,"fY":35.30058,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.48232,35.30058]}},{"type":"Feature","properties":{"店名":"千世","住所":"東京都大田区羽田3-2-4","URL":"http://ameblo.jp/chiyo-sakanalove/entry-11780487757.html","タイプ":"飲食店","備考":null,"LocName":"東京都/大田区/羽田/三丁目/２番","fX":139.74544,"fY":35.5485,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.74544,35.5485]}},{"type":"Feature","properties":{"店名":"北前そば高田家　（川崎駅前店）","住所":"神奈川県川崎市川崎区駅前本町3-3 ムラタヤビルＢ１Ｆ","URL":"http://www.takada-ya.co.jp/","タイプ":"飲食店","備考":null,"LocName":"神奈川県/川崎市/川崎区/駅前本町/３番地","fX":139.69894,"fY":35.52975,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.69894,35.52975]}},{"type":"Feature","properties":{"店名":"cafe しふぉん","住所":"東京都練馬区桜台4丁目32-1 アランコーポＢ1","URL":"http://gourmet.suntory.co.jp/shop/0359995088/index.html","タイプ":"飲食店","備考":"食材持ち込み応談","LocName":"東京都/練馬区/桜台/四丁目/３２番","fX":139.66151,"fY":35.74149,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.66151,35.74149]}},{"type":"Feature","properties":{"店名":"海人市場","住所":"神奈川県三浦郡葉山町堀内1815","URL":"http://r.gnavi.co.jp/a091200/","タイプ":"飲食店","備考":null,"LocName":"神奈川県/三浦郡/葉山町/堀内/１８１５番地","fX":139.58128,"fY":35.27165,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.58128,35.27165]}},{"type":"Feature","properties":{"店名":"海樂人","住所":"神奈川県平塚市札場町12-12","URL":"http://w-shinjukulunch.seesaa.net/article/273875706.html","タイプ":"飲食店","備考":null,"LocName":"神奈川県/平塚市/札場町/１２番","fX":139.36131,"fY":35.32277,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.36131,35.32277]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 赤羽店","住所":"北区赤羽西1-7-1","URL":"http://blog.itoyokado.co.jp/shop/170","タイプ":"スーパー","備考":"要相談","LocName":"東京都/北区/赤羽西/一丁目/７番","fX":139.71913,"fY":35.77709,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.71913,35.77709]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 昭島店","住所":"昭島市田中町562-1","URL":"http://blog.itoyokado.co.jp/shop/121","タイプ":"スーパー","備考":"要相談","LocName":"東京都/昭島市/田中町/５６２番地","fX":139.36221,"fY":35.71389,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.36221,35.71389]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 食品館阿佐谷店","住所":"東京都杉並区阿佐谷北二丁目13番2号","URL":"http://blog.itoyokado.co.jp/shop/255","タイプ":"スーパー","備考":"要相談","LocName":"東京都/杉並区/阿佐谷北/二丁目/１３番","fX":139.63547,"fY":35.70592,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.63547,35.70592]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 食品館小豆沢店","住所":"東京都板橋区小豆沢3丁目9番5号","URL":"http://blog.itoyokado.co.jp/shop/251","タイプ":"スーパー","備考":"要相談","LocName":"東京都/板橋区/小豆沢/三丁目/９番","fX":139.6949,"fY":35.7799,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.6949,35.7799]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 綾瀬店","住所":"足立区綾瀬3-4-25","URL":"http://blog.itoyokado.co.jp/shop/117","タイプ":"スーパー","備考":"要相談","LocName":"東京都/足立区/綾瀬/三丁目/４番","fX":139.82545,"fY":35.76272,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.82545,35.76272]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 食品館王子店","住所":"東京都北区王子1丁目23番5号","URL":"http://blog.itoyokado.co.jp/shop/265","タイプ":"スーパー","備考":"要相談","LocName":"東京都/北区/王子/一丁目/２３番","fX":139.73969,"fY":35.75518,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.73969,35.75518]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 大井町店","住所":"品川区大井1丁目3番6号","URL":"http://blog.itoyokado.co.jp/shop/176","タイプ":"スーパー","備考":"要相談","LocName":"東京都/品川区/大井/一丁目/３番","fX":139.73395,"fY":35.60721,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.73395,35.60721]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 大森店","住所":"大田区大森北2-13-1","URL":"http://blog.itoyokado.co.jp/shop/227","タイプ":"スーパー","備考":"要相談","LocName":"東京都/大田区/大森北/二丁目/１３番","fX":139.73369,"fY":35.58641,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.73369,35.58641]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 葛西店","住所":"江戸川区東葛西9-3-3","URL":"http://blog.itoyokado.co.jp/shop/195","タイプ":"スーパー","備考":"要相談","LocName":"東京都/江戸川区/東葛西/九丁目/３番","fX":139.88229,"fY":35.653,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.88229,35.653]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 金町店","住所":"葛飾区東金町1-10-8","URL":"http://blog.itoyokado.co.jp/shop/039","タイプ":"スーパー","備考":"要相談","LocName":"東京都/葛飾区/東金町/一丁目/１０番","fX":139.86766,"fY":35.77023,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.86766,35.77023]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 上板橋店","住所":"板橋区常盤台4-26-1","URL":"http://blog.itoyokado.co.jp/shop/027","タイプ":"スーパー","備考":"要相談","LocName":"東京都/板橋区/常盤台/四丁目/２６番","fX":139.67805,"fY":35.76403,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.67805,35.76403]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー アリオ内亀有店","住所":"葛飾区亀有3丁目49番3号","URL":"http://blog.itoyokado.co.jp/shop/234","タイプ":"スーパー","備考":"要相談","LocName":"東京都/葛飾区/亀有/三丁目/４９番","fX":139.85344,"fY":35.76482,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.85344,35.76482]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 亀有駅前店","住所":"葛飾区亀有3-26-1","URL":"http://blog.itoyokado.co.jp/shop/168","タイプ":"スーパー","備考":"要相談","LocName":"東京都/葛飾区/亀有/三丁目/２６番","fX":139.84959,"fY":35.76678,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.84959,35.76678]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー アリオ内北砂店","住所":"江東区北砂2-17","URL":"http://blog.itoyokado.co.jp/shop/246","タイプ":"スーパー","備考":"要相談","LocName":"東京都/江東区/北砂/二丁目/１７番","fX":139.82475,"fY":35.68237,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.82475,35.68237]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 木場店","住所":"江東区木場1-5-30","URL":"http://blog.itoyokado.co.jp/shop/209","タイプ":"スーパー","備考":"要相談","LocName":"東京都/江東区/木場/一丁目/５番","fX":139.80399,"fY":35.66499,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.80399,35.66499]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 小岩店","住所":"江戸川区西小岩1-24-1","URL":"http://blog.itoyokado.co.jp/shop/094","タイプ":"スーパー","備考":"要相談","LocName":"東京都/江戸川区/西小岩/一丁目/２４番","fX":139.88153,"fY":35.73335,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.88153,35.73335]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 国領店","住所":"調布市国領町8-2-64","URL":"http://blog.itoyokado.co.jp/shop/226","タイプ":"スーパー","備考":"要相談","LocName":"東京都/調布市/国領町/八丁目/２番","fX":139.56302,"fY":35.64703,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.56302,35.64703]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 食品館石神井公園店","住所":"東京都練馬区石神井町3丁目23番15号","URL":"http://blog.itoyokado.co.jp/shop/266","タイプ":"スーパー","備考":"要相談","LocName":"東京都/練馬区/石神井町/三丁目/２３番","fX":139.60608,"fY":35.74361,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.60608,35.74361]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー ザ・プライス千住店","住所":"足立区千住3-2","URL":"http://blog.itoyokado.co.jp/shop/001","タイプ":"スーパー","備考":"要相談","LocName":"東京都/足立区/千住/三丁目/２番","fX":139.80092,"fY":35.75115,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.80092,35.75115]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 食品館高井戸店","住所":"東京都杉並区宮前2丁目1番16号カサ・デ宮前1階","URL":"http://blog.itoyokado.co.jp/shop/258","タイプ":"スーパー","備考":"要相談","LocName":"東京都/杉並区/宮前/二丁目/１番","fX":139.61603,"fY":35.69069,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.61603,35.69069]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 高砂店","住所":"葛飾区高砂3-12-5","URL":"http://blog.itoyokado.co.jp/shop/019","タイプ":"スーパー","備考":"要相談","LocName":"東京都/葛飾区/高砂/三丁目/１２番","fX":139.86855,"fY":35.7505,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.86855,35.7505]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー ザ・プライス滝山店","住所":"東久留米市滝山4-13-10","URL":"http://blog.itoyokado.co.jp/shop/093","タイプ":"スーパー","備考":"要相談","LocName":"東京都/東久留米市/滝山/四丁目/１３番","fX":139.50427,"fY":35.74575,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.50427,35.74575]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 竹の塚店","住所":"足立区 竹の塚5丁目17番1号","URL":"http://blog.itoyokado.co.jp/shop/070","タイプ":"スーパー","備考":"要相談","LocName":"東京都/足立区/竹の塚/五丁目/１７番","fX":139.79533,"fY":35.79535,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.79533,35.79535]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 立石店","住所":"葛飾区立石1-18-3","URL":"http://blog.itoyokado.co.jp/shop/006","タイプ":"スーパー","備考":"要相談","LocName":"東京都/葛飾区/立石/一丁目/１８番","fX":139.84872,"fY":35.73795,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.84872,35.73795]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 田無店","住所":"西東京市田無町2-1-1 アスタビル2階","URL":"http://blog.itoyokado.co.jp/shop/171","タイプ":"スーパー","備考":"要相談","LocName":"東京都/西東京市/田無町/二丁目/１番","fX":139.54034,"fY":35.72834,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.54034,35.72834]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 多摩センター店","住所":"多摩市落合1-44","URL":"http://blog.itoyokado.co.jp/shop/095","タイプ":"スーパー","備考":"要相談","LocName":"東京都/多摩市/落合/一丁目/４４番","fX":139.42509,"fY":35.62389,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.42509,35.62389]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 戸越店","住所":"品川区戸越6-8-2","URL":"http://blog.itoyokado.co.jp/shop/013","タイプ":"スーパー","備考":"要相談","LocName":"東京都/品川区/戸越/六丁目/８番","fX":139.7182,"fY":35.60759,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.7182,35.60759]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 食品館中野店","住所":"東京都中野区中野4-3-1 中野サンクォーレB1F","URL":"http://blog.itoyokado.co.jp/shop/273","タイプ":"スーパー","備考":"要相談","LocName":"東京都/中野区/中野/四丁目/３番","fX":139.66458,"fY":35.70904,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.66458,35.70904]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー アリオ内西新井店","住所":"足立区西新井栄町1丁目20番1号","URL":"http://blog.itoyokado.co.jp/shop/239","タイプ":"スーパー","備考":"要相談","LocName":"東京都/足立区/西新井栄町/一丁目/２０番","fX":139.78566,"fY":35.77472,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.78566,35.77472]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー ザ・プライス西新井店","住所":"足立区興野1-12-7","URL":"http://blog.itoyokado.co.jp/shop/015","タイプ":"スーパー","備考":"要相談","LocName":"東京都/足立区/興野/一丁目/１２番","fX":139.78206,"fY":35.7704,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.78206,35.7704]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー ネットスーパー西日暮里店","住所":"東京都荒川区西日暮里6-65-1","URL":"http://blog.itoyokado.co.jp/shop/210","タイプ":"スーパー","備考":"要相談","LocName":"東京都/荒川区/西日暮里/六丁目/６５番","fX":139.76683,"fY":35.73533,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.76683,35.73533]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 食品館練馬高野台店","住所":"東京都練馬区高野台1丁目7番27号","URL":"http://blog.itoyokado.co.jp/shop/259","タイプ":"スーパー","備考":"要相談","LocName":"東京都/練馬区/高野台/一丁目/７番","fX":139.61575,"fY":35.74167,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.61575,35.74167]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 拝島店","住所":"昭島市松原町3-2-12","URL":"http://blog.itoyokado.co.jp/shop/216","タイプ":"スーパー","備考":"要相談","LocName":"東京都/昭島市/松原町/三丁目/２番","fX":139.34798,"fY":35.7157,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.34798,35.7157]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 八王子店","住所":"八王子市狭間町1462-1","URL":"http://blog.itoyokado.co.jp/shop/197","タイプ":"スーパー","備考":"要相談","LocName":"東京都/八王子市/狭間町/１４６２番地","fX":139.29094,"fY":35.6377,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.29094,35.6377]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 東久留米店","住所":"東久留米市本町3-8-1","URL":"http://blog.itoyokado.co.jp/shop/165","タイプ":"スーパー","備考":"要相談","LocName":"東京都/東久留米市/本町/三丁目/８番","fX":139.52885,"fY":35.75881,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.52885,35.75881]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 東村山店","住所":"東村山市本町2-2-19","URL":"http://blog.itoyokado.co.jp/shop/064","タイプ":"スーパー","備考":"要相談","LocName":"東京都/東村山市/本町/二丁目/２番","fX":139.46635,"fY":35.75899,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.46635,35.75899]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 東大和店","住所":"東大和市桜が丘2-142-1","URL":"http://blog.itoyokado.co.jp/shop/218","タイプ":"スーパー","備考":"要相談","LocName":"東京都/東大和市/桜が丘/二丁目/１４２番地","fX":139.42398,"fY":35.7359,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.42398,35.7359]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 曳舟店","住所":"墨田区京島1-2-1","URL":"http://blog.itoyokado.co.jp/shop/248","タイプ":"スーパー","備考":"要相談","LocName":"東京都/墨田区/京島/一丁目/２番","fX":139.81769,"fY":35.7165,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.81769,35.7165]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 南大沢店","住所":"八王子市南大沢2-28-1","URL":"http://blog.itoyokado.co.jp/shop/186","タイプ":"スーパー","備考":"要相談","LocName":"東京都/八王子市/南大沢/二丁目/２８番","fX":139.3791,"fY":35.61297,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.3791,35.61297]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 武蔵小金井店","住所":"小金井市本町6丁目14番9号","URL":"http://blog.itoyokado.co.jp/shop/242","タイプ":"スーパー","備考":"要相談","LocName":"東京都/小金井市/本町/六丁目/１４番","fX":139.50569,"fY":35.70052,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.50569,35.70052]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 武蔵境店","住所":"武蔵野市境南町2-2-20","URL":"http://blog.itoyokado.co.jp/shop/083","タイプ":"スーパー","備考":"要相談","LocName":"東京都/武蔵野市/境南町/二丁目/２番","fX":139.54591,"fY":35.70131,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.54591,35.70131]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 四つ木店","住所":"葛飾区四つ木2-21-1","URL":"http://blog.itoyokado.co.jp/shop/153","タイプ":"スーパー","備考":"要相談","LocName":"東京都/葛飾区/四つ木/二丁目/２１番","fX":139.83864,"fY":35.73702,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.83864,35.73702]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 食品館早稲田店","住所":"東京都新宿区早稲田町74番","URL":"http://blog.itoyokado.co.jp/shop/260","タイプ":"スーパー","備考":"要相談","LocName":"東京都/新宿区/早稲田町/７４番","fX":139.72255,"fY":35.7059,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.72255,35.7059]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 姉崎店","住所":"市原市姉崎645-1","URL":"http://blog.itoyokado.co.jp/shop/091","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/市原市/姉崎/６４５番地","fX":140.04549,"fY":35.47962,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[140.04549,35.47962]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 我孫子店","住所":"我孫子市我孫子4-11-1","URL":"http://blog.itoyokado.co.jp/shop/162","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/我孫子市/我孫子/四丁目/１１番","fX":140.00917,"fY":35.87655,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[140.00917,35.87655]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 我孫子南口店","住所":"我孫子市本町3-2-28","URL":"http://blog.itoyokado.co.jp/shop/142","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/我孫子市/本町/三丁目/２番","fX":140.01285,"fY":35.87128,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[140.01285,35.87128]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー アリオ内市原店","住所":"市原市更級四丁目3番2","URL":"http://blog.itoyokado.co.jp/shop/267","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/市原市/更級/四丁目/３番","fX":140.10291,"fY":35.50959,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[140.10291,35.50959]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 食品館おおたかの森","住所":"流山市西初石6丁目185番地の2","URL":"http://blog.itoyokado.co.jp/shop/237","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/流山市/西初石/六丁目/１８５番地","fX":139.92624,"fY":35.87049,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.92624,35.87049]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 柏店","住所":"柏市柏2-15","URL":"http://blog.itoyokado.co.jp/shop/025","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/柏市/柏/二丁目","fX":139.97379,"fY":35.86171,"iConf":5,"iLvl":6},"geometry":{"type":"Point","coordinates":[139.97379,35.86171]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 食品館鎌ヶ谷店","住所":"千葉県鎌ヶ谷市富岡1-1-3","URL":"http://blog.itoyokado.co.jp/shop/270","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/鎌ケ谷市/富岡/一丁目/１番","fX":139.9996,"fY":35.77084,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.9996,35.77084]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー ザ・プライス五香店","住所":"松戸市常盤平5-22-3","URL":"http://blog.itoyokado.co.jp/shop/032","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/松戸市/常盤平/五丁目/２２番","fX":139.96191,"fY":35.79583,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.96191,35.79583]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 新浦安店","住所":"浦安市明海4-1-1","URL":"http://blog.itoyokado.co.jp/shop/206","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/浦安市/明海/四丁目/１番","fX":139.92258,"fY":35.64282,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.92258,35.64282]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー アリオ内蘇我店","住所":"千葉市中央区川崎町52番地7","URL":"http://blog.itoyokado.co.jp/shop/230","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/千葉市/中央区/川崎町/５２番地","fX":140.12155,"fY":35.58944,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[140.12155,35.58944]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 津田沼店","住所":"習志野市津田沼1-10-30","URL":"http://blog.itoyokado.co.jp/shop/074","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/習志野市/津田沼/一丁目/１０番","fX":140.02438,"fY":35.68977,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[140.02438,35.68977]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 流山店","住所":"流山市流山9-800-2","URL":"http://blog.itoyokado.co.jp/shop/159","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/流山市/流山/九丁目/８００番地","fX":139.89941,"fY":35.84899,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.89941,35.84899]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 成田店","住所":"成田市公津の杜4-5-3","URL":"http://blog.itoyokado.co.jp/shop/202","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/成田市/公津の杜/四丁目/５番地","fX":140.29601,"fY":35.76073,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[140.29601,35.76073]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー ザ・プライス野田店","住所":"千葉県野田市野田721番地1","URL":"http://blog.itoyokado.co.jp/shop/269","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/野田市/野田/７２１番地","fX":139.86279,"fY":35.95018,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.86279,35.95018]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 東習志野店","住所":"習志野市東習志野7-3-1","URL":"http://blog.itoyokado.co.jp/shop/164","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/習志野市/東習志野/七丁目/３番","fX":140.07487,"fY":35.7017,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[140.07487,35.7017]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 船橋店","住所":"船橋市本町7-6-1","URL":"http://blog.itoyokado.co.jp/shop/107","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/船橋市/本町/七丁目/６番","fX":139.98499,"fY":35.70329,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.98499,35.70329]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 幕張店","住所":"千葉市花見川区幕張町4-417-25","URL":"http://blog.itoyokado.co.jp/shop/191","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/千葉市/花見川区/幕張町/四丁目/４１７番地","fX":140.05139,"fY":35.65572,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[140.05139,35.65572]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 松戸店","住所":"松戸市松戸1149","URL":"http://blog.itoyokado.co.jp/shop/098","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/松戸市/松戸","fX":139.90176,"fY":35.77752,"iConf":5,"iLvl":5},"geometry":{"type":"Point","coordinates":[139.90176,35.77752]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 八千代店","住所":"八千代市村上南1-3-1","URL":"http://blog.itoyokado.co.jp/shop/215","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/八千代市/村上南/一丁目/３番地","fX":140.11766,"fY":35.72243,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[140.11766,35.72243]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 八柱店","住所":"松戸市日暮1-15-8","URL":"http://blog.itoyokado.co.jp/shop/111","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/松戸市/日暮/一丁目/１５番","fX":139.93979,"fY":35.79099,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.93979,35.79099]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 四街道店","住所":"四街道市中央5番地","URL":"http://blog.itoyokado.co.jp/shop/229","タイプ":"スーパー","備考":"要相談","LocName":"千葉県/四街道市/中央/５番","fX":140.16507,"fY":35.66754,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[140.16507,35.66754]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 厚木店","住所":"厚木市中町4-13-1","URL":"http://blog.itoyokado.co.jp/shop/054","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/厚木市/中町/四丁目/１３番","fX":139.36168,"fY":35.43834,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.36168,35.43834]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 伊勢原店","住所":"伊勢原市桜台1-8-1","URL":"http://blog.itoyokado.co.jp/shop/125","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/伊勢原市/桜台/一丁目/８番","fX":139.31502,"fY":35.39495,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.31502,35.39495]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 大船店","住所":"鎌倉市大船6-1-1","URL":"http://blog.itoyokado.co.jp/shop/105","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/鎌倉市/大船/六丁目/１番","fX":139.53917,"fY":35.35317,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.53917,35.35317]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 小田原店","住所":"小田原市中里296-1","URL":"http://blog.itoyokado.co.jp/shop/158","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/小田原市/中里/２９６番地","fX":139.18854,"fY":35.28173,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.18854,35.28173]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 桂台店","住所":"横浜市栄区桂台中15-1","URL":"http://blog.itoyokado.co.jp/shop/087","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/横浜市/栄区/桂台中/１５番","fX":139.56636,"fY":35.35321,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.56636,35.35321]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 上大岡店","住所":"横浜市港南区上大岡西3-9-1","URL":"http://blog.itoyokado.co.jp/shop/043","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/横浜市/港南区/上大岡西/三丁目/９番","fX":139.59682,"fY":35.40395,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.59682,35.40395]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 上永谷店","住所":"横浜市港南区丸山台1-12","URL":"http://blog.itoyokado.co.jp/shop/114","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/横浜市/港南区/丸山台/一丁目/１２番","fX":139.57149,"fY":35.4008,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.57149,35.4008]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 川崎店","住所":"川崎市川崎区小田栄2-2-1","URL":"http://blog.itoyokado.co.jp/shop/205","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/川崎市/川崎区/小田栄/二丁目/２番","fX":139.70889,"fY":35.51402,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.70889,35.51402]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 川崎港町店","住所":"川崎市川崎区港町12-1","URL":"http://blog.itoyokado.co.jp/shop/182","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/川崎市/川崎区/港町/１２番","fX":139.7169,"fY":35.53493,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.7169,35.53493]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 古淵店","住所":"相模原市南区古淵3-13-33","URL":"http://blog.itoyokado.co.jp/shop/157","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/相模原市/南区/古淵/三丁目/１３番","fX":139.41862,"fY":35.55273,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.41862,35.55273]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 相模原店","住所":"相模原市南区松が枝町17-1","URL":"http://blog.itoyokado.co.jp/shop/029","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/相模原市/南区/松が枝町/１７番","fX":139.42496,"fY":35.51545,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.42496,35.51545]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 湘南台店","住所":"藤沢市石川6-2-1","URL":"http://blog.itoyokado.co.jp/shop/214","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/藤沢市/石川/六丁目/２番","fX":139.44698,"fY":35.39237,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.44698,35.39237]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー ザ・プライス湘南台店","住所":"藤沢市湘南台7-36-1","URL":"http://blog.itoyokado.co.jp/shop/264","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/藤沢市/湘南台/七丁目/３６番","fX":139.47192,"fY":35.39332,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.47192,35.39332]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 新百合ヶ丘店","住所":"川崎市麻生区上麻生1-4-1","URL":"http://blog.itoyokado.co.jp/shop/152","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/川崎市/麻生区/上麻生/一丁目/４番","fX":139.50934,"fY":35.60326,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.50934,35.60326]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 立場店","住所":"横浜市泉区中田西1-1-15","URL":"http://blog.itoyokado.co.jp/shop/219","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/横浜市/泉区/中田西/一丁目/１番","fX":139.50006,"fY":35.41464,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.50006,35.41464]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー たまプラーザ店","住所":"横浜市青葉区美しが丘1-6-1","URL":"http://blog.itoyokado.co.jp/shop/085","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/横浜市/青葉区/美しが丘/一丁目/６番地","fX":139.55618,"fY":35.57848,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.55618,35.57848]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 茅ヶ崎店","住所":"茅ヶ崎市新栄町11-8","URL":"http://blog.itoyokado.co.jp/shop/088","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/茅ヶ崎市/新栄町/１１番","fX":139.4052,"fY":35.33176,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.4052,35.33176]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 綱島店","住所":"横浜市港北区綱島西2-8-1","URL":"http://blog.itoyokado.co.jp/shop/109","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/横浜市/港北区/綱島西/二丁目/８番","fX":139.63185,"fY":35.53545,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.63185,35.53545]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 鶴見店","住所":"横浜市鶴見区鶴見中央3-15-30","URL":"http://blog.itoyokado.co.jp/shop/174","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/横浜市/鶴見区/鶴見中央/三丁目/１５番","fX":139.68672,"fY":35.50946,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.68672,35.50946]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 能見台店","住所":"横浜市金沢区能見台東3-1","URL":"http://blog.itoyokado.co.jp/shop/187","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/横浜市/金沢区/能見台東/３番","fX":139.62685,"fY":35.35772,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.62685,35.35772]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー アリオ内 橋本店","住所":"神奈川県相模原市緑区大山町1-22","URL":"http://blog.itoyokado.co.jp/shop/247","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/相模原市/緑区/大山町/１番","fX":139.34859,"fY":35.58897,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.34859,35.58897]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 秦野店","住所":"秦野市大秦町2-16","URL":"http://blog.itoyokado.co.jp/shop/092","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/秦野市/大秦町/２番","fX":139.22971,"fY":35.36879,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.22971,35.36879]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 藤沢店","住所":"藤沢市鵠沼石上1-10-1","URL":"http://blog.itoyokado.co.jp/shop/047","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/藤沢市/鵠沼石上/一丁目/１０番","fX":139.48912,"fY":35.33503,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.48912,35.33503]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 食品館本牧店","住所":"横浜市中区小港町2丁目100-4","URL":"http://blog.itoyokado.co.jp/shop/241","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/横浜市/中区/小港町/二丁目/１００番地","fX":139.66539,"fY":35.43013,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.66539,35.43013]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 溝ノ口店","住所":"川崎市高津区久本3-6-20","URL":"http://blog.itoyokado.co.jp/shop/131","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/川崎市/高津区/久本/三丁目/６番","fX":139.61653,"fY":35.59851,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.61653,35.59851]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー グランツリー武蔵小杉店","住所":"川崎市中原区新丸子東3丁目1135番地","URL":"http://blog.itoyokado.co.jp/shop/272","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/川崎市/中原区/新丸子東/三丁目/１１３５番地","fX":139.66016,"fY":35.57376,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.66016,35.57376]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 武蔵小杉駅前店","住所":"川崎市中原区小杉町3-420","URL":"http://blog.itoyokado.co.jp/shop/115","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/川崎市/中原区/小杉町/三丁目/４２０番地","fX":139.65846,"fY":35.57596,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.65846,35.57596]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 大和鶴間店","住所":"大和市下鶴間1丁目3番1号","URL":"http://blog.itoyokado.co.jp/shop/213","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/大和市/下鶴間/一丁目/３番","fX":139.45692,"fY":35.49052,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.45692,35.49052]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 洋光台店","住所":"横浜市磯子区洋光台3-10-3","URL":"http://blog.itoyokado.co.jp/shop/084","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/横浜市/磯子区/洋光台/三丁目/１０番","fX":139.59393,"fY":35.38035,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.59393,35.38035]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 横浜別所店","住所":"横浜市南区別所1-14-1","URL":"http://blog.itoyokado.co.jp/shop/199","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/横浜市/南区/別所/一丁目/１４番","fX":139.59474,"fY":35.41594,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.59474,35.41594]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー ららぽーと横浜店","住所":"横浜市都筑区池辺町4035番1","URL":"http://blog.itoyokado.co.jp/shop/238","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/横浜市/都筑区/池辺町/４０３５番地","fX":139.56602,"fY":35.51758,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.56602,35.51758]}},{"type":"Feature","properties":{"店名":"イトーヨーカドー 若葉台店","住所":"横浜市旭区若葉台3-7-1","URL":"http://blog.itoyokado.co.jp/shop/112","タイプ":"スーパー","備考":"要相談","LocName":"神奈川県/横浜市/旭区/若葉台/三丁目/７番","fX":139.49806,"fY":35.50528,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.49806,35.50528]}},{"type":"Feature","properties":{"店名":"築地日本海 両国店","住所":"東京都墨田区両国3-26-2 リヴゴーシュATビル1,2F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4283","タイプ":"釣りパック","備考":null,"LocName":"東京都/墨田区/両国/三丁目/２６番","fX":139.79353,"fY":35.69542,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.79353,35.69542]}},{"type":"Feature","properties":{"店名":"築地日本海 赤羽店","住所":"東京都北区赤羽西1-40-4 TAGUCHIビル1,2F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4268","タイプ":"釣りパック","備考":null,"LocName":"東京都/北区/赤羽西/一丁目/４０番","fX":139.71939,"fY":35.77868,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.71939,35.77868]}},{"type":"Feature","properties":{"店名":"築地日本海 茗荷谷店","住所":"東京都文京区小石川5-5-7 中沢ビル1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4274","タイプ":"釣りパック","備考":null,"LocName":"東京都/文京区/小石川/五丁目/５番","fX":139.73721,"fY":35.71784,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.73721,35.71784]}},{"type":"Feature","properties":{"店名":"築地日本海 矢口店","住所":"東京都大田区矢口2-14-9","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4263","タイプ":"釣りパック","備考":null,"LocName":"東京都/大田区/矢口/二丁目/１４番","fX":139.69554,"fY":35.56312,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.69554,35.56312]}},{"type":"Feature","properties":{"店名":"築地日本海 石川台店","住所":"東京都大田区東雪谷2-13-3 カスタリア雪谷","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4286","タイプ":"釣りパック","備考":null,"LocName":"東京都/大田区/東雪谷/二丁目/１３番","fX":139.6851,"fY":35.59553,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.6851,35.59553]}},{"type":"Feature","properties":{"店名":"築地日本海 池上店","住所":"東京都大田区池上6-1-7 ブルースカイハイツ1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4279","タイプ":"釣りパック","備考":null,"LocName":"東京都/大田区/池上/六丁目/１番","fX":139.70445,"fY":35.57275,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.70445,35.57275]}},{"type":"Feature","properties":{"店名":"築地日本海 糀谷店","住所":"東京都大田区西糀谷4-27-9 ベルヒルズビル1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4276","タイプ":"釣りパック","備考":null,"LocName":"東京都/大田区/西糀谷/四丁目/２７番","fX":139.73007,"fY":35.55377,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.73007,35.55377]}},{"type":"Feature","properties":{"店名":"築地日本海 蒲田店","住所":"東京都大田区西蒲田7-5-11 ツユキ・大庄蒲田ビル1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4267","タイプ":"釣りパック","備考":null,"LocName":"東京都/大田区/西蒲田/七丁目/５番","fX":139.71519,"fY":35.56368,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.71519,35.56368]}},{"type":"Feature","properties":{"店名":"築地日本海 竹ノ塚店","住所":"東京都足立区竹の塚1-41-10 Tスクエア1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4270","タイプ":"釣りパック","備考":null,"LocName":"東京都/足立区/竹の塚/一丁目/４１番","fX":139.79124,"fY":35.79376,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.79124,35.79376]}},{"type":"Feature","properties":{"店名":"すし 炉ばた焼 築地日本海 綾瀬店","住所":"東京都足立区綾瀬3-7-10 岩崎ビル1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1749","タイプ":"釣りパック","備考":null,"LocName":"東京都/足立区/綾瀬/三丁目/７番","fX":139.82605,"fY":35.76339,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.82605,35.76339]}},{"type":"Feature","properties":{"店名":"築地日本海 方南町店","住所":"東京都杉並区堀之内1-5-4 世継ビル1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4266","タイプ":"釣りパック","備考":null,"LocName":"東京都/杉並区/堀ノ内/一丁目/５番","fX":139.65506,"fY":35.68366,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.65506,35.68366]}},{"type":"Feature","properties":{"店名":"築地日本海 阿佐ヶ谷店","住所":"東京都杉並区阿佐ヶ谷南1-48-13 横川ビB1,1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4273","タイプ":"釣りパック","備考":null,"LocName":"東京都/杉並区/阿佐谷南/一丁目/４８番","fX":139.63676,"fY":35.70375,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.63676,35.70375]}},{"type":"Feature","properties":{"店名":"すし 築地 アトレヴィ信濃町店","住所":"東京都新宿区信濃町34 アトレヴィ信濃町1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1531","タイプ":"釣りパック","備考":null,"LocName":"東京都/新宿区/信濃町/３４番","fX":139.71959,"fY":35.68071,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.71959,35.68071]}},{"type":"Feature","properties":{"店名":"すし 築地 赤坂本店","住所":"東京都港区赤坂3-13-7 サクセスビル1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1519","タイプ":"釣りパック","備考":null,"LocName":"東京都/港区/赤坂/三丁目/１３番","fX":139.7375,"fY":35.67313,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.7375,35.67313]}},{"type":"Feature","properties":{"店名":"すし 築地 豊洲シエルタワー店","住所":"東京都江東区豊洲5-5-1 豊洲シエルタワー3F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1624","タイプ":"釣りパック","備考":null,"LocName":"東京都/江東区/豊洲/五丁目/５番","fX":139.79678,"fY":35.65314,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.79678,35.65314]}},{"type":"Feature","properties":{"店名":"築地日本海 船橋店","住所":"千葉県船橋市本町2-2-7 サンテックビル2F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4275","タイプ":"釣りパック","備考":null,"LocName":"千葉県/船橋市/本町/二丁目/２番","fX":139.98523,"fY":35.69692,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.98523,35.69692]}},{"type":"Feature","properties":{"店名":"築地日本海 千葉駅前店","住所":"千葉県千葉市中央区富士見1-1-1 千葉駅前ビル1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4278","タイプ":"釣りパック","備考":null,"LocName":"千葉県/千葉市/中央区/富士見/一丁目/１番","fX":140.11661,"fY":35.6125,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[140.11661,35.6125]}},{"type":"Feature","properties":{"店名":"築地日本海 千葉中央店","住所":"千葉県千葉市中央区新宿2-2-2 第3プレシードビル1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4284","タイプ":"釣りパック","備考":null,"LocName":"千葉県/千葉市/中央区/新宿/二丁目/２番","fX":140.11668,"fY":35.60778,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[140.11668,35.60778]}},{"type":"Feature","properties":{"店名":"築地日本海 新松戸店","住所":"千葉県松戸市新松戸2-18 長谷川ビル1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4277","タイプ":"釣りパック","備考":null,"LocName":"千葉県/松戸市/新松戸/二丁目/１８番地","fX":139.9202,"fY":35.82486,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.9202,35.82486]}},{"type":"Feature","properties":{"店名":"すし 築地 南行徳店","住所":"千葉県市川市南行徳1-18-1 レジデンスダイキ1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1470","タイプ":"釣りパック","備考":null,"LocName":"千葉県/市川市/南行徳/一丁目/１８番","fX":139.90286,"fY":35.67149,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.90286,35.67149]}},{"type":"Feature","properties":{"店名":"すし 築地 桜木町駅前店","住所":"神奈川県横浜市中区桜木町1-1 JR高架下","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1700","タイプ":"釣りパック","備考":null,"LocName":"神奈川県/横浜市/中区/桜木町/一丁目/１番地","fX":139.63272,"fY":35.44905,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.63272,35.44905]}},{"type":"Feature","properties":{"店名":"浜の母や 大泉学園店","住所":"東京都練馬区東大泉1-37-1 マルキシビルB1","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4258","タイプ":"釣りパック","備考":null,"LocName":"東京都/練馬区/東大泉/一丁目/３７番","fX":139.58578,"fY":35.75114,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.58578,35.75114]}},{"type":"Feature","properties":{"店名":"焼酎屋 童 成増店","住所":"東京都板橋区成増2-12-6 成増駅前ビルB1","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4423","タイプ":"釣りパック","備考":null,"LocName":"東京都/板橋区/成増/二丁目/１２番","fX":139.63309,"fY":35.77693,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.63309,35.77693]}},{"type":"Feature","properties":{"店名":"満天酒場 大森店","住所":"東京都大田区大森北1-3-3 高信ビル1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4259","タイプ":"釣りパック","備考":null,"LocName":"東京都/大田区/大森北/一丁目/３番","fX":139.72885,"fY":35.58758,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.72885,35.58758]}},{"type":"Feature","properties":{"店名":"浜の母や 大森店","住所":"東京都大田区大森北1-2-1 徳原ビルB1","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4292","タイプ":"釣りパック","備考":null,"LocName":"東京都/大田区/大森北/一丁目/２番","fX":139.72902,"fY":35.58776,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.72902,35.58776]}},{"type":"Feature","properties":{"店名":"浜の母や 浅草橋店","住所":"東京都台東区浅草橋1-26-1 イズプラビル1,2F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4289","タイプ":"釣りパック","備考":null,"LocName":"東京都/台東区/浅草橋/一丁目/２６番","fX":139.78381,"fY":35.69812,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.78381,35.69812]}},{"type":"Feature","properties":{"店名":"焼酎屋 童 水道橋店","住所":"東京都千代田区三崎町2-19-4 三崎町M・Kビル2F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4248","タイプ":"釣りパック","備考":null,"LocName":"東京都/千代田区/三崎町/二丁目/１９番","fX":139.75262,"fY":35.70155,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.75262,35.70155]}},{"type":"Feature","properties":{"店名":"大福水産 三軒茶屋店","住所":"東京都世田谷区太子堂4-22-5 ホームズ三軒茶屋駅前ビルB1","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1770","タイプ":"釣りパック","備考":null,"LocName":"東京都/世田谷区/太子堂/四丁目/２２番","fX":139.67018,"fY":35.64369,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.67018,35.64369]}},{"type":"Feature","properties":{"店名":"浜の母や 赤坂通り店","住所":"東京都港区赤坂3-13-7 サクセス赤坂ビルB1","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4281","タイプ":"釣りパック","備考":null,"LocName":"東京都/港区/赤坂/三丁目/１３番","fX":139.7375,"fY":35.67313,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.7375,35.67313]}},{"type":"Feature","properties":{"店名":"焼酎屋 童 船堀店","住所":"東京都江戸川区船堀4-2-6 船堀伊藤ビル2F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4424","タイプ":"釣りパック","備考":null,"LocName":"東京都/江戸川区/船堀/四丁目/２番","fX":139.86562,"fY":35.68481,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.86562,35.68481]}},{"type":"Feature","properties":{"店名":"浜の母や 船堀店","住所":"東京都江戸川区船堀3-7-11 矢島ビル1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4402","タイプ":"釣りパック","備考":null,"LocName":"東京都/江戸川区/船堀/三丁目/７番","fX":139.86511,"fY":35.68308,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.86511,35.68308]}},{"type":"Feature","properties":{"店名":"大福水産 小岩店","住所":"東京都江戸川区西小岩1-25-10 よし甚ビル1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4425","タイプ":"釣りパック","備考":null,"LocName":"東京都/江戸川区/西小岩/一丁目/２５番","fX":139.88138,"fY":35.73427,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.88138,35.73427]}},{"type":"Feature","properties":{"店名":"庄や　飯田橋西口店","住所":"東京都千代田区富士見2-3-7 山田ビル1・2階","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1022","タイプ":"釣りパック","備考":null,"LocName":"東京都/千代田区/富士見/二丁目/３番","fX":139.74547,"fY":35.69968,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.74547,35.69968]}},{"type":"Feature","properties":{"店名":"庄や　神田南口店","住所":"東京都千代田区鍛冶町2-13-10","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1101","タイプ":"釣りパック","備考":null,"LocName":"東京都/千代田区/鍛冶町/二丁目/１３番","fX":139.77112,"fY":35.69225,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.77112,35.69225]}},{"type":"Feature","properties":{"店名":"立ち呑み　呑んき　丸の内北口店","住所":"東京都千代田区丸の内1-7-8 東京駅構内 味の散歩道","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1701","タイプ":"釣りパック","備考":null,"LocName":"東京都/千代田区/丸の内/一丁目/７番","fX":139.76825,"fY":35.6836,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.76825,35.6836]}},{"type":"Feature","properties":{"店名":"讃岐茶屋　八重洲店","住所":"東京都中央区八重洲1-7-6 青山ファイナンスビル1階","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4719","タイプ":"釣りパック","備考":null,"LocName":"東京都/中央区/八重洲/一丁目/７番","fX":139.77025,"fY":35.68098,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.77025,35.68098]}},{"type":"Feature","properties":{"店名":"日本海庄や　田原町店","住所":"東京都台東区雷門1-5-5 上條ビル地下1・1階","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1434","タイプ":"釣りパック","備考":null,"LocName":"東京都/台東区/雷門/一丁目/５番","fX":139.79277,"fY":35.7099,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.79277,35.7099]}},{"type":"Feature","properties":{"店名":"庄や　茗荷谷店","住所":"東京都文京区小石川5-4-4 すみれビル1階","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1127","タイプ":"釣りパック","備考":null,"LocName":"東京都/文京区/小石川/五丁目/４番","fX":139.73819,"fY":35.71726,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.73819,35.71726]}},{"type":"Feature","properties":{"店名":"日本海庄や　茗荷谷店","住所":"東京都文京区小日向4-6-8 茗荷谷駅ＭFビル地下1階","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1265","タイプ":"釣りパック","備考":null,"LocName":"東京都/文京区/小日向/四丁目/６番","fX":139.73717,"fY":35.71729,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.73717,35.71729]}},{"type":"Feature","properties":{"店名":"やるき茶屋　業平橋店","住所":"東京都墨田区向島1-33-9 アサヒビール業平橋ビル1階","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=5074","タイプ":"釣りパック","備考":null,"LocName":"東京都/墨田区/向島/一丁目/３３番","fX":139.80849,"fY":35.7105,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.80849,35.7105]}},{"type":"Feature","properties":{"店名":"庄や　大山店","住所":"東京都板橋区大山東町58-1","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1010","タイプ":"釣りパック","備考":null,"LocName":"東京都/板橋区/大山東町/５８番","fX":139.70294,"fY":35.7492,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.70294,35.7492]}},{"type":"Feature","properties":{"店名":"庄や　ときわ台店","住所":"東京都板橋区南常盤台1-26-13 小藤田ビル1階","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1055","タイプ":"釣りパック","備考":null,"LocName":"東京都/板橋区/南常盤台/一丁目/２６番","fX":139.69089,"fY":35.75803,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.69089,35.75803]}},{"type":"Feature","properties":{"店名":"庄や・うたうんだ村　上板橋店","住所":"東京都板橋区上板橋1-13-19 GAビル","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1620","タイプ":"釣りパック","備考":null,"LocName":"東京都/板橋区/上板橋/一丁目/１３番","fX":139.6768,"fY":35.76257,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.6768,35.76257]}},{"type":"Feature","properties":{"店名":"日本海庄や　氷川台店","住所":"東京都練馬区氷川台3-39-7 ミリオンアネックス氷川台1階","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1702","タイプ":"釣りパック","備考":null,"LocName":"東京都/練馬区/氷川台/三丁目/３９番","fX":139.66516,"fY":35.75023,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.66516,35.75023]}},{"type":"Feature","properties":{"店名":"庄や　平和台北口店","住所":"東京都練馬区北町6-32-36 アクロス平和台ビル2階","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1219","タイプ":"釣りパック","備考":null,"LocName":"東京都/練馬区/北町/六丁目/３２番","fX":139.65187,"fY":35.75867,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.65187,35.75867]}},{"type":"Feature","properties":{"店名":"庄や　池袋西口店","住所":"東京都豊島区西池袋1-37-16 池袋西口ビル地下1～4階","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1025","タイプ":"釣りパック","備考":null,"LocName":"東京都/豊島区/西池袋/一丁目/３７番","fX":139.70906,"fY":35.73229,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.70906,35.73229]}},{"type":"Feature","properties":{"店名":"日本海庄や　池袋北口店","住所":"東京都豊島区西池袋1-42-7 池袋東栄ビル地下1～3階","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1465","タイプ":"釣りパック","備考":null,"LocName":"東京都/豊島区/西池袋/一丁目/４２番","fX":139.71065,"fY":35.7329,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.71065,35.7329]}},{"type":"Feature","properties":{"店名":"日本海庄や　ヤマダ電機LABI1池袋店","住所":"東京都豊島区東池袋1-5-7 LABI1池袋7階","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1720","タイプ":"釣りパック","備考":null,"LocName":"東京都/豊島区/東池袋/一丁目/５番","fX":139.71361,"fY":35.7309,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.71361,35.7309]}},{"type":"Feature","properties":{"店名":"やるき茶屋　池袋西口店","住所":"東京都豊島区西池袋1-15-7 吉大ビル地下1階","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=5026","タイプ":"釣りパック","備考":null,"LocName":"東京都/豊島区/西池袋/一丁目/１５番","fX":139.70961,"fY":35.73046,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.70961,35.73046]}},{"type":"Feature","properties":{"店名":"やるき茶屋　目白店","住所":"東京都豊島区目白3-5-15 目白共同ビル2階","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=5134","タイプ":"釣りパック","備考":null,"LocName":"東京都/豊島区/目白/三丁目/５番","fX":139.70494,"fY":35.72217,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.70494,35.72217]}},{"type":"Feature","properties":{"店名":"大庄水産　池袋店","住所":"東京都豊島区東池袋1-30-1 スポルト1階","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1808","タイプ":"釣りパック","備考":null,"LocName":"東京都/豊島区/東池袋/一丁目/３０番","fX":139.71646,"fY":35.73118,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.71646,35.73118]}},{"type":"Feature","properties":{"店名":"大福水産 浦安店","住所":"千葉県浦安市北栄1-15-12 浦安臼倉ビル2F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=1775","タイプ":"釣りパック","備考":null,"LocName":"千葉県/浦安市/北栄/一丁目/１５番","fX":139.89407,"fY":35.66549,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.89407,35.66549]}},{"type":"Feature","properties":{"店名":"焼酎屋 童 相模大野店","住所":"神奈川県相模原市南区相模大野3-15-17 東新相模大野ビル5,6F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4415","タイプ":"釣りパック","備考":null,"LocName":"神奈川県/相模原市/南区/相模大野/三丁目/１５番","fX":139.436,"fY":35.53296,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.436,35.53296]}},{"type":"Feature","properties":{"店名":"大福水産 相模大野店","住所":"神奈川県相模原市南区相模大野3-15-17 東新相模大野ビル1,2F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4415","タイプ":"釣りパック","備考":null,"LocName":"神奈川県/相模原市/南区/相模大野/三丁目/１５番","fX":139.436,"fY":35.53296,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.436,35.53296]}},{"type":"Feature","properties":{"店名":"大福水産 武蔵新城店","住所":"神奈川県川崎市中原区上新城2-11-10","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4421","タイプ":"釣りパック","備考":null,"LocName":"神奈川県/川崎市/中原区/上新城/二丁目/１１番","fX":139.62932,"fY":35.58735,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.62932,35.58735]}},{"type":"Feature","properties":{"店名":"大福水産 関内店","住所":"神奈川県横浜市中区常盤町1-2 関内SEビル1F","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4420","タイプ":"釣りパック","備考":null,"LocName":"神奈川県/横浜市/中区/常盤町/一丁目/２番地","fX":139.63889,"fY":35.445,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.63889,35.445]}},{"type":"Feature","properties":{"店名":"浜の母や 衣笠店","住所":"神奈川県横須賀市衣笠栄町1-70 加賀屋ビルB1","URL":"http://search.daisyo.co.jp/shop.php?shop_cd=4290","タイプ":"釣りパック","備考":null,"LocName":"神奈川県/横須賀市/衣笠栄町/一丁目/７０番地","fX":139.66351,"fY":35.25658,"iConf":5,"iLvl":7},"geometry":{"type":"Point","coordinates":[139.66351,35.25658]}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "漁や",
+                "住所": "神奈川県藤沢市辻堂6-13-2",
+                "URL": "http://members.jcom.home.ne.jp/ryo-ya/",
+                "タイプ": "飲食店",
+                "備考": null,
+                "LocName": "神奈川県/藤沢市/辻堂/六丁目/１３番",
+                "fX": 139.44737,
+                "fY": 35.32715,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.44737,
+                    35.32715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "荒川屋ダイニングバ－サンドフィッシュ（Sandfish）",
+                "住所": "神奈川県横浜市金沢区州崎町6-1",
+                "URL": "http://r.gnavi.co.jp/b799800/",
+                "タイプ": "飲食店",
+                "備考": null,
+                "LocName": "神奈川県/横浜市/金沢区",
+                "fX": 139.62445,
+                "fY": 35.33769,
+                "iConf": 5,
+                "iLvl": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.62445,
+                    35.33769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "シーサイドスパ八景島",
+                "住所": "神奈川県横浜市金沢区 柴町361",
+                "URL": "http://www.seaside-spa.net/index.html",
+                "タイプ": "飲食店",
+                "備考": null,
+                "LocName": "神奈川県/横浜市/金沢区/柴町/３６１番地",
+                "fX": 139.6411,
+                "fY": 35.34249,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6411,
+                    35.34249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "海人市場",
+                "住所": "神奈川県三浦郡葉山町堀内1815",
+                "URL": "http://r.gnavi.co.jp/a091200/",
+                "タイプ": "飲食店",
+                "備考": null,
+                "LocName": "神奈川県/三浦郡/葉山町/堀内/１８１５番地",
+                "fX": 139.58128,
+                "fY": 35.27165,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.58128,
+                    35.27165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "いのうえつりえさ店",
+                "住所": "神奈川県藤沢市江の島１丁目６?２２",
+                "URL": "http://www7a.biglobe.ne.jp/~enoshima-inouetsuriesaten/",
+                "タイプ": "飲食店",
+                "備考": null,
+                "LocName": "神奈川県/藤沢市/江の島/一丁目/６番",
+                "fX": 139.48232,
+                "fY": 35.30058,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.48232,
+                    35.30058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "千世",
+                "住所": "東京都大田区羽田3-2-4",
+                "URL": "http://ameblo.jp/chiyo-sakanalove/entry-11780487757.html",
+                "タイプ": "飲食店",
+                "備考": null,
+                "LocName": "東京都/大田区/羽田/三丁目/２番",
+                "fX": 139.74544,
+                "fY": 35.5485,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.74544,
+                    35.5485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "北前そば高田家　（川崎駅前店）",
+                "住所": "神奈川県川崎市川崎区駅前本町3-3 ムラタヤビルＢ１Ｆ",
+                "URL": "http://www.takada-ya.co.jp/",
+                "タイプ": "飲食店",
+                "備考": null,
+                "LocName": "神奈川県/川崎市/川崎区/駅前本町/３番地",
+                "fX": 139.69894,
+                "fY": 35.52975,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.69894,
+                    35.52975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "cafe しふぉん",
+                "住所": "東京都練馬区桜台4丁目32-1 アランコーポＢ1",
+                "URL": "http://gourmet.suntory.co.jp/shop/0359995088/index.html",
+                "タイプ": "飲食店",
+                "備考": "食材持ち込み応談",
+                "LocName": "東京都/練馬区/桜台/四丁目/３２番",
+                "fX": 139.66151,
+                "fY": 35.74149,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.66151,
+                    35.74149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "海人市場",
+                "住所": "神奈川県三浦郡葉山町堀内1815",
+                "URL": "http://r.gnavi.co.jp/a091200/",
+                "タイプ": "飲食店",
+                "備考": null,
+                "LocName": "神奈川県/三浦郡/葉山町/堀内/１８１５番地",
+                "fX": 139.58128,
+                "fY": 35.27165,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.58128,
+                    35.27165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "海樂人",
+                "住所": "神奈川県平塚市札場町12-12",
+                "URL": "http://w-shinjukulunch.seesaa.net/article/273875706.html",
+                "タイプ": "飲食店",
+                "備考": null,
+                "LocName": "神奈川県/平塚市/札場町/１２番",
+                "fX": 139.36131,
+                "fY": 35.32277,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.36131,
+                    35.32277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 赤羽店",
+                "住所": "北区赤羽西1-7-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/170",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/北区/赤羽西/一丁目/７番",
+                "fX": 139.71913,
+                "fY": 35.77709,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.71913,
+                    35.77709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 昭島店",
+                "住所": "昭島市田中町562-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/121",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/昭島市/田中町/５６２番地",
+                "fX": 139.36221,
+                "fY": 35.71389,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.36221,
+                    35.71389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 食品館阿佐谷店",
+                "住所": "東京都杉並区阿佐谷北二丁目13番2号",
+                "URL": "http://blog.itoyokado.co.jp/shop/255",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/杉並区/阿佐谷北/二丁目/１３番",
+                "fX": 139.63547,
+                "fY": 35.70592,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.63547,
+                    35.70592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 食品館小豆沢店",
+                "住所": "東京都板橋区小豆沢3丁目9番5号",
+                "URL": "http://blog.itoyokado.co.jp/shop/251",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/板橋区/小豆沢/三丁目/９番",
+                "fX": 139.6949,
+                "fY": 35.7799,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6949,
+                    35.7799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 綾瀬店",
+                "住所": "足立区綾瀬3-4-25",
+                "URL": "http://blog.itoyokado.co.jp/shop/117",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/足立区/綾瀬/三丁目/４番",
+                "fX": 139.82545,
+                "fY": 35.76272,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.82545,
+                    35.76272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 食品館王子店",
+                "住所": "東京都北区王子1丁目23番5号",
+                "URL": "http://blog.itoyokado.co.jp/shop/265",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/北区/王子/一丁目/２３番",
+                "fX": 139.73969,
+                "fY": 35.75518,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.73969,
+                    35.75518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 大井町店",
+                "住所": "品川区大井1丁目3番6号",
+                "URL": "http://blog.itoyokado.co.jp/shop/176",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/品川区/大井/一丁目/３番",
+                "fX": 139.73395,
+                "fY": 35.60721,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.73395,
+                    35.60721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 大森店",
+                "住所": "大田区大森北2-13-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/227",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/大田区/大森北/二丁目/１３番",
+                "fX": 139.73369,
+                "fY": 35.58641,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.73369,
+                    35.58641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 葛西店",
+                "住所": "江戸川区東葛西9-3-3",
+                "URL": "http://blog.itoyokado.co.jp/shop/195",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/江戸川区/東葛西/九丁目/３番",
+                "fX": 139.88229,
+                "fY": 35.653,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.88229,
+                    35.653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 金町店",
+                "住所": "葛飾区東金町1-10-8",
+                "URL": "http://blog.itoyokado.co.jp/shop/039",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/葛飾区/東金町/一丁目/１０番",
+                "fX": 139.86766,
+                "fY": 35.77023,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.86766,
+                    35.77023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 上板橋店",
+                "住所": "板橋区常盤台4-26-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/027",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/板橋区/常盤台/四丁目/２６番",
+                "fX": 139.67805,
+                "fY": 35.76403,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.67805,
+                    35.76403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー アリオ内亀有店",
+                "住所": "葛飾区亀有3丁目49番3号",
+                "URL": "http://blog.itoyokado.co.jp/shop/234",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/葛飾区/亀有/三丁目/４９番",
+                "fX": 139.85344,
+                "fY": 35.76482,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.85344,
+                    35.76482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 亀有駅前店",
+                "住所": "葛飾区亀有3-26-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/168",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/葛飾区/亀有/三丁目/２６番",
+                "fX": 139.84959,
+                "fY": 35.76678,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.84959,
+                    35.76678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー アリオ内北砂店",
+                "住所": "江東区北砂2-17",
+                "URL": "http://blog.itoyokado.co.jp/shop/246",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/江東区/北砂/二丁目/１７番",
+                "fX": 139.82475,
+                "fY": 35.68237,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.82475,
+                    35.68237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 木場店",
+                "住所": "江東区木場1-5-30",
+                "URL": "http://blog.itoyokado.co.jp/shop/209",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/江東区/木場/一丁目/５番",
+                "fX": 139.80399,
+                "fY": 35.66499,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.80399,
+                    35.66499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 小岩店",
+                "住所": "江戸川区西小岩1-24-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/094",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/江戸川区/西小岩/一丁目/２４番",
+                "fX": 139.88153,
+                "fY": 35.73335,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.88153,
+                    35.73335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 国領店",
+                "住所": "調布市国領町8-2-64",
+                "URL": "http://blog.itoyokado.co.jp/shop/226",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/調布市/国領町/八丁目/２番",
+                "fX": 139.56302,
+                "fY": 35.64703,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.56302,
+                    35.64703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 食品館石神井公園店",
+                "住所": "東京都練馬区石神井町3丁目23番15号",
+                "URL": "http://blog.itoyokado.co.jp/shop/266",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/練馬区/石神井町/三丁目/２３番",
+                "fX": 139.60608,
+                "fY": 35.74361,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.60608,
+                    35.74361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー ザ・プライス千住店",
+                "住所": "足立区千住3-2",
+                "URL": "http://blog.itoyokado.co.jp/shop/001",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/足立区/千住/三丁目/２番",
+                "fX": 139.80092,
+                "fY": 35.75115,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.80092,
+                    35.75115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 食品館高井戸店",
+                "住所": "東京都杉並区宮前2丁目1番16号カサ・デ宮前1階",
+                "URL": "http://blog.itoyokado.co.jp/shop/258",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/杉並区/宮前/二丁目/１番",
+                "fX": 139.61603,
+                "fY": 35.69069,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.61603,
+                    35.69069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 高砂店",
+                "住所": "葛飾区高砂3-12-5",
+                "URL": "http://blog.itoyokado.co.jp/shop/019",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/葛飾区/高砂/三丁目/１２番",
+                "fX": 139.86855,
+                "fY": 35.7505,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.86855,
+                    35.7505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー ザ・プライス滝山店",
+                "住所": "東久留米市滝山4-13-10",
+                "URL": "http://blog.itoyokado.co.jp/shop/093",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/東久留米市/滝山/四丁目/１３番",
+                "fX": 139.50427,
+                "fY": 35.74575,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.50427,
+                    35.74575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 竹の塚店",
+                "住所": "足立区 竹の塚5丁目17番1号",
+                "URL": "http://blog.itoyokado.co.jp/shop/070",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/足立区/竹の塚/五丁目/１７番",
+                "fX": 139.79533,
+                "fY": 35.79535,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.79533,
+                    35.79535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 立石店",
+                "住所": "葛飾区立石1-18-3",
+                "URL": "http://blog.itoyokado.co.jp/shop/006",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/葛飾区/立石/一丁目/１８番",
+                "fX": 139.84872,
+                "fY": 35.73795,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.84872,
+                    35.73795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 田無店",
+                "住所": "西東京市田無町2-1-1 アスタビル2階",
+                "URL": "http://blog.itoyokado.co.jp/shop/171",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/西東京市/田無町/二丁目/１番",
+                "fX": 139.54034,
+                "fY": 35.72834,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.54034,
+                    35.72834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 多摩センター店",
+                "住所": "多摩市落合1-44",
+                "URL": "http://blog.itoyokado.co.jp/shop/095",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/多摩市/落合/一丁目/４４番",
+                "fX": 139.42509,
+                "fY": 35.62389,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.42509,
+                    35.62389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 戸越店",
+                "住所": "品川区戸越6-8-2",
+                "URL": "http://blog.itoyokado.co.jp/shop/013",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/品川区/戸越/六丁目/８番",
+                "fX": 139.7182,
+                "fY": 35.60759,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7182,
+                    35.60759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 食品館中野店",
+                "住所": "東京都中野区中野4-3-1 中野サンクォーレB1F",
+                "URL": "http://blog.itoyokado.co.jp/shop/273",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/中野区/中野/四丁目/３番",
+                "fX": 139.66458,
+                "fY": 35.70904,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.66458,
+                    35.70904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー アリオ内西新井店",
+                "住所": "足立区西新井栄町1丁目20番1号",
+                "URL": "http://blog.itoyokado.co.jp/shop/239",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/足立区/西新井栄町/一丁目/２０番",
+                "fX": 139.78566,
+                "fY": 35.77472,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.78566,
+                    35.77472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー ザ・プライス西新井店",
+                "住所": "足立区興野1-12-7",
+                "URL": "http://blog.itoyokado.co.jp/shop/015",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/足立区/興野/一丁目/１２番",
+                "fX": 139.78206,
+                "fY": 35.7704,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.78206,
+                    35.7704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー ネットスーパー西日暮里店",
+                "住所": "東京都荒川区西日暮里6-65-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/210",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/荒川区/西日暮里/六丁目/６５番",
+                "fX": 139.76683,
+                "fY": 35.73533,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.76683,
+                    35.73533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 食品館練馬高野台店",
+                "住所": "東京都練馬区高野台1丁目7番27号",
+                "URL": "http://blog.itoyokado.co.jp/shop/259",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/練馬区/高野台/一丁目/７番",
+                "fX": 139.61575,
+                "fY": 35.74167,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.61575,
+                    35.74167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 拝島店",
+                "住所": "昭島市松原町3-2-12",
+                "URL": "http://blog.itoyokado.co.jp/shop/216",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/昭島市/松原町/三丁目/２番",
+                "fX": 139.34798,
+                "fY": 35.7157,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.34798,
+                    35.7157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 八王子店",
+                "住所": "八王子市狭間町1462-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/197",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/八王子市/狭間町/１４６２番地",
+                "fX": 139.29094,
+                "fY": 35.6377,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.29094,
+                    35.6377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 東久留米店",
+                "住所": "東久留米市本町3-8-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/165",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/東久留米市/本町/三丁目/８番",
+                "fX": 139.52885,
+                "fY": 35.75881,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.52885,
+                    35.75881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 東村山店",
+                "住所": "東村山市本町2-2-19",
+                "URL": "http://blog.itoyokado.co.jp/shop/064",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/東村山市/本町/二丁目/２番",
+                "fX": 139.46635,
+                "fY": 35.75899,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.46635,
+                    35.75899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 東大和店",
+                "住所": "東大和市桜が丘2-142-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/218",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/東大和市/桜が丘/二丁目/１４２番地",
+                "fX": 139.42398,
+                "fY": 35.7359,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.42398,
+                    35.7359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 曳舟店",
+                "住所": "墨田区京島1-2-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/248",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/墨田区/京島/一丁目/２番",
+                "fX": 139.81769,
+                "fY": 35.7165,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.81769,
+                    35.7165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 南大沢店",
+                "住所": "八王子市南大沢2-28-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/186",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/八王子市/南大沢/二丁目/２８番",
+                "fX": 139.3791,
+                "fY": 35.61297,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3791,
+                    35.61297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 武蔵小金井店",
+                "住所": "小金井市本町6丁目14番9号",
+                "URL": "http://blog.itoyokado.co.jp/shop/242",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/小金井市/本町/六丁目/１４番",
+                "fX": 139.50569,
+                "fY": 35.70052,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.50569,
+                    35.70052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 武蔵境店",
+                "住所": "武蔵野市境南町2-2-20",
+                "URL": "http://blog.itoyokado.co.jp/shop/083",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/武蔵野市/境南町/二丁目/２番",
+                "fX": 139.54591,
+                "fY": 35.70131,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.54591,
+                    35.70131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 四つ木店",
+                "住所": "葛飾区四つ木2-21-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/153",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/葛飾区/四つ木/二丁目/２１番",
+                "fX": 139.83864,
+                "fY": 35.73702,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.83864,
+                    35.73702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 食品館早稲田店",
+                "住所": "東京都新宿区早稲田町74番",
+                "URL": "http://blog.itoyokado.co.jp/shop/260",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "東京都/新宿区/早稲田町/７４番",
+                "fX": 139.72255,
+                "fY": 35.7059,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.72255,
+                    35.7059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 姉崎店",
+                "住所": "市原市姉崎645-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/091",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/市原市/姉崎/６４５番地",
+                "fX": 140.04549,
+                "fY": 35.47962,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.04549,
+                    35.47962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 我孫子店",
+                "住所": "我孫子市我孫子4-11-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/162",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/我孫子市/我孫子/四丁目/１１番",
+                "fX": 140.00917,
+                "fY": 35.87655,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.00917,
+                    35.87655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 我孫子南口店",
+                "住所": "我孫子市本町3-2-28",
+                "URL": "http://blog.itoyokado.co.jp/shop/142",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/我孫子市/本町/三丁目/２番",
+                "fX": 140.01285,
+                "fY": 35.87128,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.01285,
+                    35.87128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー アリオ内市原店",
+                "住所": "市原市更級四丁目3番2",
+                "URL": "http://blog.itoyokado.co.jp/shop/267",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/市原市/更級/四丁目/３番",
+                "fX": 140.10291,
+                "fY": 35.50959,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.10291,
+                    35.50959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 食品館おおたかの森",
+                "住所": "流山市西初石6丁目185番地の2",
+                "URL": "http://blog.itoyokado.co.jp/shop/237",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/流山市/西初石/六丁目/１８５番地",
+                "fX": 139.92624,
+                "fY": 35.87049,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.92624,
+                    35.87049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 柏店",
+                "住所": "柏市柏2-15",
+                "URL": "http://blog.itoyokado.co.jp/shop/025",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/柏市/柏/二丁目",
+                "fX": 139.97379,
+                "fY": 35.86171,
+                "iConf": 5,
+                "iLvl": 6
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.97379,
+                    35.86171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 食品館鎌ヶ谷店",
+                "住所": "千葉県鎌ヶ谷市富岡1-1-3",
+                "URL": "http://blog.itoyokado.co.jp/shop/270",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/鎌ケ谷市/富岡/一丁目/１番",
+                "fX": 139.9996,
+                "fY": 35.77084,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9996,
+                    35.77084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー ザ・プライス五香店",
+                "住所": "松戸市常盤平5-22-3",
+                "URL": "http://blog.itoyokado.co.jp/shop/032",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/松戸市/常盤平/五丁目/２２番",
+                "fX": 139.96191,
+                "fY": 35.79583,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.96191,
+                    35.79583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 新浦安店",
+                "住所": "浦安市明海4-1-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/206",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/浦安市/明海/四丁目/１番",
+                "fX": 139.92258,
+                "fY": 35.64282,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.92258,
+                    35.64282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー アリオ内蘇我店",
+                "住所": "千葉市中央区川崎町52番地7",
+                "URL": "http://blog.itoyokado.co.jp/shop/230",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/千葉市/中央区/川崎町/５２番地",
+                "fX": 140.12155,
+                "fY": 35.58944,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.12155,
+                    35.58944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 津田沼店",
+                "住所": "習志野市津田沼1-10-30",
+                "URL": "http://blog.itoyokado.co.jp/shop/074",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/習志野市/津田沼/一丁目/１０番",
+                "fX": 140.02438,
+                "fY": 35.68977,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.02438,
+                    35.68977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 流山店",
+                "住所": "流山市流山9-800-2",
+                "URL": "http://blog.itoyokado.co.jp/shop/159",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/流山市/流山/九丁目/８００番地",
+                "fX": 139.89941,
+                "fY": 35.84899,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.89941,
+                    35.84899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 成田店",
+                "住所": "成田市公津の杜4-5-3",
+                "URL": "http://blog.itoyokado.co.jp/shop/202",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/成田市/公津の杜/四丁目/５番地",
+                "fX": 140.29601,
+                "fY": 35.76073,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.29601,
+                    35.76073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー ザ・プライス野田店",
+                "住所": "千葉県野田市野田721番地1",
+                "URL": "http://blog.itoyokado.co.jp/shop/269",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/野田市/野田/７２１番地",
+                "fX": 139.86279,
+                "fY": 35.95018,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.86279,
+                    35.95018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 東習志野店",
+                "住所": "習志野市東習志野7-3-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/164",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/習志野市/東習志野/七丁目/３番",
+                "fX": 140.07487,
+                "fY": 35.7017,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.07487,
+                    35.7017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 船橋店",
+                "住所": "船橋市本町7-6-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/107",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/船橋市/本町/七丁目/６番",
+                "fX": 139.98499,
+                "fY": 35.70329,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.98499,
+                    35.70329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 幕張店",
+                "住所": "千葉市花見川区幕張町4-417-25",
+                "URL": "http://blog.itoyokado.co.jp/shop/191",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/千葉市/花見川区/幕張町/四丁目/４１７番地",
+                "fX": 140.05139,
+                "fY": 35.65572,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.05139,
+                    35.65572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 松戸店",
+                "住所": "松戸市松戸1149",
+                "URL": "http://blog.itoyokado.co.jp/shop/098",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/松戸市/松戸",
+                "fX": 139.90176,
+                "fY": 35.77752,
+                "iConf": 5,
+                "iLvl": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.90176,
+                    35.77752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 八千代店",
+                "住所": "八千代市村上南1-3-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/215",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/八千代市/村上南/一丁目/３番地",
+                "fX": 140.11766,
+                "fY": 35.72243,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.11766,
+                    35.72243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 八柱店",
+                "住所": "松戸市日暮1-15-8",
+                "URL": "http://blog.itoyokado.co.jp/shop/111",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/松戸市/日暮/一丁目/１５番",
+                "fX": 139.93979,
+                "fY": 35.79099,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.93979,
+                    35.79099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 四街道店",
+                "住所": "四街道市中央5番地",
+                "URL": "http://blog.itoyokado.co.jp/shop/229",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "千葉県/四街道市/中央/５番",
+                "fX": 140.16507,
+                "fY": 35.66754,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.16507,
+                    35.66754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 厚木店",
+                "住所": "厚木市中町4-13-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/054",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/厚木市/中町/四丁目/１３番",
+                "fX": 139.36168,
+                "fY": 35.43834,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.36168,
+                    35.43834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 伊勢原店",
+                "住所": "伊勢原市桜台1-8-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/125",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/伊勢原市/桜台/一丁目/８番",
+                "fX": 139.31502,
+                "fY": 35.39495,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.31502,
+                    35.39495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 大船店",
+                "住所": "鎌倉市大船6-1-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/105",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/鎌倉市/大船/六丁目/１番",
+                "fX": 139.53917,
+                "fY": 35.35317,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.53917,
+                    35.35317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 小田原店",
+                "住所": "小田原市中里296-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/158",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/小田原市/中里/２９６番地",
+                "fX": 139.18854,
+                "fY": 35.28173,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.18854,
+                    35.28173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 桂台店",
+                "住所": "横浜市栄区桂台中15-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/087",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/横浜市/栄区/桂台中/１５番",
+                "fX": 139.56636,
+                "fY": 35.35321,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.56636,
+                    35.35321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 上大岡店",
+                "住所": "横浜市港南区上大岡西3-9-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/043",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/横浜市/港南区/上大岡西/三丁目/９番",
+                "fX": 139.59682,
+                "fY": 35.40395,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.59682,
+                    35.40395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 上永谷店",
+                "住所": "横浜市港南区丸山台1-12",
+                "URL": "http://blog.itoyokado.co.jp/shop/114",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/横浜市/港南区/丸山台/一丁目/１２番",
+                "fX": 139.57149,
+                "fY": 35.4008,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.57149,
+                    35.4008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 川崎店",
+                "住所": "川崎市川崎区小田栄2-2-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/205",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/川崎市/川崎区/小田栄/二丁目/２番",
+                "fX": 139.70889,
+                "fY": 35.51402,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.70889,
+                    35.51402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 川崎港町店",
+                "住所": "川崎市川崎区港町12-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/182",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/川崎市/川崎区/港町/１２番",
+                "fX": 139.7169,
+                "fY": 35.53493,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7169,
+                    35.53493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 古淵店",
+                "住所": "相模原市南区古淵3-13-33",
+                "URL": "http://blog.itoyokado.co.jp/shop/157",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/相模原市/南区/古淵/三丁目/１３番",
+                "fX": 139.41862,
+                "fY": 35.55273,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.41862,
+                    35.55273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 相模原店",
+                "住所": "相模原市南区松が枝町17-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/029",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/相模原市/南区/松が枝町/１７番",
+                "fX": 139.42496,
+                "fY": 35.51545,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.42496,
+                    35.51545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 湘南台店",
+                "住所": "藤沢市石川6-2-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/214",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/藤沢市/石川/六丁目/２番",
+                "fX": 139.44698,
+                "fY": 35.39237,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.44698,
+                    35.39237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー ザ・プライス湘南台店",
+                "住所": "藤沢市湘南台7-36-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/264",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/藤沢市/湘南台/七丁目/３６番",
+                "fX": 139.47192,
+                "fY": 35.39332,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.47192,
+                    35.39332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 新百合ヶ丘店",
+                "住所": "川崎市麻生区上麻生1-4-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/152",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/川崎市/麻生区/上麻生/一丁目/４番",
+                "fX": 139.50934,
+                "fY": 35.60326,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.50934,
+                    35.60326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 立場店",
+                "住所": "横浜市泉区中田西1-1-15",
+                "URL": "http://blog.itoyokado.co.jp/shop/219",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/横浜市/泉区/中田西/一丁目/１番",
+                "fX": 139.50006,
+                "fY": 35.41464,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.50006,
+                    35.41464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー たまプラーザ店",
+                "住所": "横浜市青葉区美しが丘1-6-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/085",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/横浜市/青葉区/美しが丘/一丁目/６番地",
+                "fX": 139.55618,
+                "fY": 35.57848,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.55618,
+                    35.57848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 茅ヶ崎店",
+                "住所": "茅ヶ崎市新栄町11-8",
+                "URL": "http://blog.itoyokado.co.jp/shop/088",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/茅ヶ崎市/新栄町/１１番",
+                "fX": 139.4052,
+                "fY": 35.33176,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4052,
+                    35.33176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 綱島店",
+                "住所": "横浜市港北区綱島西2-8-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/109",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/横浜市/港北区/綱島西/二丁目/８番",
+                "fX": 139.63185,
+                "fY": 35.53545,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.63185,
+                    35.53545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 鶴見店",
+                "住所": "横浜市鶴見区鶴見中央3-15-30",
+                "URL": "http://blog.itoyokado.co.jp/shop/174",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/横浜市/鶴見区/鶴見中央/三丁目/１５番",
+                "fX": 139.68672,
+                "fY": 35.50946,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.68672,
+                    35.50946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 能見台店",
+                "住所": "横浜市金沢区能見台東3-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/187",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/横浜市/金沢区/能見台東/３番",
+                "fX": 139.62685,
+                "fY": 35.35772,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.62685,
+                    35.35772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー アリオ内 橋本店",
+                "住所": "神奈川県相模原市緑区大山町1-22",
+                "URL": "http://blog.itoyokado.co.jp/shop/247",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/相模原市/緑区/大山町/１番",
+                "fX": 139.34859,
+                "fY": 35.58897,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.34859,
+                    35.58897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 秦野店",
+                "住所": "秦野市大秦町2-16",
+                "URL": "http://blog.itoyokado.co.jp/shop/092",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/秦野市/大秦町/２番",
+                "fX": 139.22971,
+                "fY": 35.36879,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.22971,
+                    35.36879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 藤沢店",
+                "住所": "藤沢市鵠沼石上1-10-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/047",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/藤沢市/鵠沼石上/一丁目/１０番",
+                "fX": 139.48912,
+                "fY": 35.33503,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.48912,
+                    35.33503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 食品館本牧店",
+                "住所": "横浜市中区小港町2丁目100-4",
+                "URL": "http://blog.itoyokado.co.jp/shop/241",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/横浜市/中区/小港町/二丁目/１００番地",
+                "fX": 139.66539,
+                "fY": 35.43013,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.66539,
+                    35.43013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 溝ノ口店",
+                "住所": "川崎市高津区久本3-6-20",
+                "URL": "http://blog.itoyokado.co.jp/shop/131",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/川崎市/高津区/久本/三丁目/６番",
+                "fX": 139.61653,
+                "fY": 35.59851,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.61653,
+                    35.59851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー グランツリー武蔵小杉店",
+                "住所": "川崎市中原区新丸子東3丁目1135番地",
+                "URL": "http://blog.itoyokado.co.jp/shop/272",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/川崎市/中原区/新丸子東/三丁目/１１３５番地",
+                "fX": 139.66016,
+                "fY": 35.57376,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.66016,
+                    35.57376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 武蔵小杉駅前店",
+                "住所": "川崎市中原区小杉町3-420",
+                "URL": "http://blog.itoyokado.co.jp/shop/115",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/川崎市/中原区/小杉町/三丁目/４２０番地",
+                "fX": 139.65846,
+                "fY": 35.57596,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.65846,
+                    35.57596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 大和鶴間店",
+                "住所": "大和市下鶴間1丁目3番1号",
+                "URL": "http://blog.itoyokado.co.jp/shop/213",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/大和市/下鶴間/一丁目/３番",
+                "fX": 139.45692,
+                "fY": 35.49052,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.45692,
+                    35.49052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 洋光台店",
+                "住所": "横浜市磯子区洋光台3-10-3",
+                "URL": "http://blog.itoyokado.co.jp/shop/084",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/横浜市/磯子区/洋光台/三丁目/１０番",
+                "fX": 139.59393,
+                "fY": 35.38035,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.59393,
+                    35.38035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 横浜別所店",
+                "住所": "横浜市南区別所1-14-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/199",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/横浜市/南区/別所/一丁目/１４番",
+                "fX": 139.59474,
+                "fY": 35.41594,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.59474,
+                    35.41594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー ららぽーと横浜店",
+                "住所": "横浜市都筑区池辺町4035番1",
+                "URL": "http://blog.itoyokado.co.jp/shop/238",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/横浜市/都筑区/池辺町/４０３５番地",
+                "fX": 139.56602,
+                "fY": 35.51758,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.56602,
+                    35.51758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "イトーヨーカドー 若葉台店",
+                "住所": "横浜市旭区若葉台3-7-1",
+                "URL": "http://blog.itoyokado.co.jp/shop/112",
+                "タイプ": "スーパー",
+                "備考": "要相談",
+                "LocName": "神奈川県/横浜市/旭区/若葉台/三丁目/７番",
+                "fX": 139.49806,
+                "fY": 35.50528,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.49806,
+                    35.50528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "築地日本海 両国店",
+                "住所": "東京都墨田区両国3-26-2 リヴゴーシュATビル1,2F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4283",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/墨田区/両国/三丁目/２６番",
+                "fX": 139.79353,
+                "fY": 35.69542,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.79353,
+                    35.69542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "築地日本海 赤羽店",
+                "住所": "東京都北区赤羽西1-40-4 TAGUCHIビル1,2F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4268",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/北区/赤羽西/一丁目/４０番",
+                "fX": 139.71939,
+                "fY": 35.77868,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.71939,
+                    35.77868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "築地日本海 茗荷谷店",
+                "住所": "東京都文京区小石川5-5-7 中沢ビル1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4274",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/文京区/小石川/五丁目/５番",
+                "fX": 139.73721,
+                "fY": 35.71784,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.73721,
+                    35.71784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "築地日本海 矢口店",
+                "住所": "東京都大田区矢口2-14-9",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4263",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/大田区/矢口/二丁目/１４番",
+                "fX": 139.69554,
+                "fY": 35.56312,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.69554,
+                    35.56312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "築地日本海 石川台店",
+                "住所": "東京都大田区東雪谷2-13-3 カスタリア雪谷",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4286",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/大田区/東雪谷/二丁目/１３番",
+                "fX": 139.6851,
+                "fY": 35.59553,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6851,
+                    35.59553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "築地日本海 池上店",
+                "住所": "東京都大田区池上6-1-7 ブルースカイハイツ1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4279",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/大田区/池上/六丁目/１番",
+                "fX": 139.70445,
+                "fY": 35.57275,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.70445,
+                    35.57275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "築地日本海 糀谷店",
+                "住所": "東京都大田区西糀谷4-27-9 ベルヒルズビル1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4276",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/大田区/西糀谷/四丁目/２７番",
+                "fX": 139.73007,
+                "fY": 35.55377,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.73007,
+                    35.55377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "築地日本海 蒲田店",
+                "住所": "東京都大田区西蒲田7-5-11 ツユキ・大庄蒲田ビル1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4267",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/大田区/西蒲田/七丁目/５番",
+                "fX": 139.71519,
+                "fY": 35.56368,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.71519,
+                    35.56368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "築地日本海 竹ノ塚店",
+                "住所": "東京都足立区竹の塚1-41-10 Tスクエア1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4270",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/足立区/竹の塚/一丁目/４１番",
+                "fX": 139.79124,
+                "fY": 35.79376,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.79124,
+                    35.79376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "すし 炉ばた焼 築地日本海 綾瀬店",
+                "住所": "東京都足立区綾瀬3-7-10 岩崎ビル1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1749",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/足立区/綾瀬/三丁目/７番",
+                "fX": 139.82605,
+                "fY": 35.76339,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.82605,
+                    35.76339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "築地日本海 方南町店",
+                "住所": "東京都杉並区堀之内1-5-4 世継ビル1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4266",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/杉並区/堀ノ内/一丁目/５番",
+                "fX": 139.65506,
+                "fY": 35.68366,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.65506,
+                    35.68366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "築地日本海 阿佐ヶ谷店",
+                "住所": "東京都杉並区阿佐ヶ谷南1-48-13 横川ビB1,1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4273",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/杉並区/阿佐谷南/一丁目/４８番",
+                "fX": 139.63676,
+                "fY": 35.70375,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.63676,
+                    35.70375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "すし 築地 アトレヴィ信濃町店",
+                "住所": "東京都新宿区信濃町34 アトレヴィ信濃町1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1531",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/新宿区/信濃町/３４番",
+                "fX": 139.71959,
+                "fY": 35.68071,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.71959,
+                    35.68071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "すし 築地 赤坂本店",
+                "住所": "東京都港区赤坂3-13-7 サクセスビル1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1519",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/港区/赤坂/三丁目/１３番",
+                "fX": 139.7375,
+                "fY": 35.67313,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7375,
+                    35.67313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "すし 築地 豊洲シエルタワー店",
+                "住所": "東京都江東区豊洲5-5-1 豊洲シエルタワー3F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1624",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/江東区/豊洲/五丁目/５番",
+                "fX": 139.79678,
+                "fY": 35.65314,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.79678,
+                    35.65314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "築地日本海 船橋店",
+                "住所": "千葉県船橋市本町2-2-7 サンテックビル2F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4275",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "千葉県/船橋市/本町/二丁目/２番",
+                "fX": 139.98523,
+                "fY": 35.69692,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.98523,
+                    35.69692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "築地日本海 千葉駅前店",
+                "住所": "千葉県千葉市中央区富士見1-1-1 千葉駅前ビル1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4278",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "千葉県/千葉市/中央区/富士見/一丁目/１番",
+                "fX": 140.11661,
+                "fY": 35.6125,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.11661,
+                    35.6125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "築地日本海 千葉中央店",
+                "住所": "千葉県千葉市中央区新宿2-2-2 第3プレシードビル1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4284",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "千葉県/千葉市/中央区/新宿/二丁目/２番",
+                "fX": 140.11668,
+                "fY": 35.60778,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.11668,
+                    35.60778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "築地日本海 新松戸店",
+                "住所": "千葉県松戸市新松戸2-18 長谷川ビル1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4277",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "千葉県/松戸市/新松戸/二丁目/１８番地",
+                "fX": 139.9202,
+                "fY": 35.82486,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9202,
+                    35.82486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "すし 築地 南行徳店",
+                "住所": "千葉県市川市南行徳1-18-1 レジデンスダイキ1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1470",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "千葉県/市川市/南行徳/一丁目/１８番",
+                "fX": 139.90286,
+                "fY": 35.67149,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.90286,
+                    35.67149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "すし 築地 桜木町駅前店",
+                "住所": "神奈川県横浜市中区桜木町1-1 JR高架下",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1700",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "神奈川県/横浜市/中区/桜木町/一丁目/１番地",
+                "fX": 139.63272,
+                "fY": 35.44905,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.63272,
+                    35.44905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "浜の母や 大泉学園店",
+                "住所": "東京都練馬区東大泉1-37-1 マルキシビルB1",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4258",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/練馬区/東大泉/一丁目/３７番",
+                "fX": 139.58578,
+                "fY": 35.75114,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.58578,
+                    35.75114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "焼酎屋 童 成増店",
+                "住所": "東京都板橋区成増2-12-6 成増駅前ビルB1",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4423",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/板橋区/成増/二丁目/１２番",
+                "fX": 139.63309,
+                "fY": 35.77693,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.63309,
+                    35.77693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "満天酒場 大森店",
+                "住所": "東京都大田区大森北1-3-3 高信ビル1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4259",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/大田区/大森北/一丁目/３番",
+                "fX": 139.72885,
+                "fY": 35.58758,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.72885,
+                    35.58758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "浜の母や 大森店",
+                "住所": "東京都大田区大森北1-2-1 徳原ビルB1",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4292",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/大田区/大森北/一丁目/２番",
+                "fX": 139.72902,
+                "fY": 35.58776,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.72902,
+                    35.58776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "浜の母や 浅草橋店",
+                "住所": "東京都台東区浅草橋1-26-1 イズプラビル1,2F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4289",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/台東区/浅草橋/一丁目/２６番",
+                "fX": 139.78381,
+                "fY": 35.69812,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.78381,
+                    35.69812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "焼酎屋 童 水道橋店",
+                "住所": "東京都千代田区三崎町2-19-4 三崎町M・Kビル2F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4248",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/千代田区/三崎町/二丁目/１９番",
+                "fX": 139.75262,
+                "fY": 35.70155,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75262,
+                    35.70155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "大福水産 三軒茶屋店",
+                "住所": "東京都世田谷区太子堂4-22-5 ホームズ三軒茶屋駅前ビルB1",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1770",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/世田谷区/太子堂/四丁目/２２番",
+                "fX": 139.67018,
+                "fY": 35.64369,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.67018,
+                    35.64369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "浜の母や 赤坂通り店",
+                "住所": "東京都港区赤坂3-13-7 サクセス赤坂ビルB1",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4281",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/港区/赤坂/三丁目/１３番",
+                "fX": 139.7375,
+                "fY": 35.67313,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7375,
+                    35.67313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "焼酎屋 童 船堀店",
+                "住所": "東京都江戸川区船堀4-2-6 船堀伊藤ビル2F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4424",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/江戸川区/船堀/四丁目/２番",
+                "fX": 139.86562,
+                "fY": 35.68481,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.86562,
+                    35.68481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "浜の母や 船堀店",
+                "住所": "東京都江戸川区船堀3-7-11 矢島ビル1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4402",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/江戸川区/船堀/三丁目/７番",
+                "fX": 139.86511,
+                "fY": 35.68308,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.86511,
+                    35.68308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "大福水産 小岩店",
+                "住所": "東京都江戸川区西小岩1-25-10 よし甚ビル1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4425",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/江戸川区/西小岩/一丁目/２５番",
+                "fX": 139.88138,
+                "fY": 35.73427,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.88138,
+                    35.73427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "庄や　飯田橋西口店",
+                "住所": "東京都千代田区富士見2-3-7 山田ビル1・2階",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1022",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/千代田区/富士見/二丁目/３番",
+                "fX": 139.74547,
+                "fY": 35.69968,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.74547,
+                    35.69968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "庄や　神田南口店",
+                "住所": "東京都千代田区鍛冶町2-13-10",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1101",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/千代田区/鍛冶町/二丁目/１３番",
+                "fX": 139.77112,
+                "fY": 35.69225,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.77112,
+                    35.69225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "立ち呑み　呑んき　丸の内北口店",
+                "住所": "東京都千代田区丸の内1-7-8 東京駅構内 味の散歩道",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1701",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/千代田区/丸の内/一丁目/７番",
+                "fX": 139.76825,
+                "fY": 35.6836,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.76825,
+                    35.6836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "讃岐茶屋　八重洲店",
+                "住所": "東京都中央区八重洲1-7-6 青山ファイナンスビル1階",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4719",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/中央区/八重洲/一丁目/７番",
+                "fX": 139.77025,
+                "fY": 35.68098,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.77025,
+                    35.68098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "日本海庄や　田原町店",
+                "住所": "東京都台東区雷門1-5-5 上條ビル地下1・1階",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1434",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/台東区/雷門/一丁目/５番",
+                "fX": 139.79277,
+                "fY": 35.7099,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.79277,
+                    35.7099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "庄や　茗荷谷店",
+                "住所": "東京都文京区小石川5-4-4 すみれビル1階",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1127",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/文京区/小石川/五丁目/４番",
+                "fX": 139.73819,
+                "fY": 35.71726,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.73819,
+                    35.71726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "日本海庄や　茗荷谷店",
+                "住所": "東京都文京区小日向4-6-8 茗荷谷駅ＭFビル地下1階",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1265",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/文京区/小日向/四丁目/６番",
+                "fX": 139.73717,
+                "fY": 35.71729,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.73717,
+                    35.71729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "やるき茶屋　業平橋店",
+                "住所": "東京都墨田区向島1-33-9 アサヒビール業平橋ビル1階",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=5074",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/墨田区/向島/一丁目/３３番",
+                "fX": 139.80849,
+                "fY": 35.7105,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.80849,
+                    35.7105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "庄や　大山店",
+                "住所": "東京都板橋区大山東町58-1",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1010",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/板橋区/大山東町/５８番",
+                "fX": 139.70294,
+                "fY": 35.7492,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.70294,
+                    35.7492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "庄や　ときわ台店",
+                "住所": "東京都板橋区南常盤台1-26-13 小藤田ビル1階",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1055",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/板橋区/南常盤台/一丁目/２６番",
+                "fX": 139.69089,
+                "fY": 35.75803,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.69089,
+                    35.75803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "庄や・うたうんだ村　上板橋店",
+                "住所": "東京都板橋区上板橋1-13-19 GAビル",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1620",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/板橋区/上板橋/一丁目/１３番",
+                "fX": 139.6768,
+                "fY": 35.76257,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6768,
+                    35.76257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "日本海庄や　氷川台店",
+                "住所": "東京都練馬区氷川台3-39-7 ミリオンアネックス氷川台1階",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1702",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/練馬区/氷川台/三丁目/３９番",
+                "fX": 139.66516,
+                "fY": 35.75023,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.66516,
+                    35.75023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "庄や　平和台北口店",
+                "住所": "東京都練馬区北町6-32-36 アクロス平和台ビル2階",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1219",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/練馬区/北町/六丁目/３２番",
+                "fX": 139.65187,
+                "fY": 35.75867,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.65187,
+                    35.75867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "庄や　池袋西口店",
+                "住所": "東京都豊島区西池袋1-37-16 池袋西口ビル地下1～4階",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1025",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/豊島区/西池袋/一丁目/３７番",
+                "fX": 139.70906,
+                "fY": 35.73229,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.70906,
+                    35.73229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "日本海庄や　池袋北口店",
+                "住所": "東京都豊島区西池袋1-42-7 池袋東栄ビル地下1～3階",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1465",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/豊島区/西池袋/一丁目/４２番",
+                "fX": 139.71065,
+                "fY": 35.7329,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.71065,
+                    35.7329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "日本海庄や　ヤマダ電機LABI1池袋店",
+                "住所": "東京都豊島区東池袋1-5-7 LABI1池袋7階",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1720",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/豊島区/東池袋/一丁目/５番",
+                "fX": 139.71361,
+                "fY": 35.7309,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.71361,
+                    35.7309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "やるき茶屋　池袋西口店",
+                "住所": "東京都豊島区西池袋1-15-7 吉大ビル地下1階",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=5026",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/豊島区/西池袋/一丁目/１５番",
+                "fX": 139.70961,
+                "fY": 35.73046,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.70961,
+                    35.73046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "やるき茶屋　目白店",
+                "住所": "東京都豊島区目白3-5-15 目白共同ビル2階",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=5134",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/豊島区/目白/三丁目/５番",
+                "fX": 139.70494,
+                "fY": 35.72217,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.70494,
+                    35.72217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "大庄水産　池袋店",
+                "住所": "東京都豊島区東池袋1-30-1 スポルト1階",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1808",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "東京都/豊島区/東池袋/一丁目/３０番",
+                "fX": 139.71646,
+                "fY": 35.73118,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.71646,
+                    35.73118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "大福水産 浦安店",
+                "住所": "千葉県浦安市北栄1-15-12 浦安臼倉ビル2F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=1775",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "千葉県/浦安市/北栄/一丁目/１５番",
+                "fX": 139.89407,
+                "fY": 35.66549,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.89407,
+                    35.66549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "焼酎屋 童 相模大野店",
+                "住所": "神奈川県相模原市南区相模大野3-15-17 東新相模大野ビル5,6F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4415",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "神奈川県/相模原市/南区/相模大野/三丁目/１５番",
+                "fX": 139.436,
+                "fY": 35.53296,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.436,
+                    35.53296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "大福水産 相模大野店",
+                "住所": "神奈川県相模原市南区相模大野3-15-17 東新相模大野ビル1,2F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4415",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "神奈川県/相模原市/南区/相模大野/三丁目/１５番",
+                "fX": 139.436,
+                "fY": 35.53296,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.436,
+                    35.53296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "大福水産 武蔵新城店",
+                "住所": "神奈川県川崎市中原区上新城2-11-10",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4421",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "神奈川県/川崎市/中原区/上新城/二丁目/１１番",
+                "fX": 139.62932,
+                "fY": 35.58735,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.62932,
+                    35.58735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "大福水産 関内店",
+                "住所": "神奈川県横浜市中区常盤町1-2 関内SEビル1F",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4420",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "神奈川県/横浜市/中区/常盤町/一丁目/２番地",
+                "fX": 139.63889,
+                "fY": 35.445,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.63889,
+                    35.445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "店名": "浜の母や 衣笠店",
+                "住所": "神奈川県横須賀市衣笠栄町1-70 加賀屋ビルB1",
+                "URL": "http://search.daisyo.co.jp/shop.php?shop_cd=4290",
+                "タイプ": "釣りパック",
+                "備考": null,
+                "LocName": "神奈川県/横須賀市/衣笠栄町/一丁目/７０番地",
+                "fX": 139.66351,
+                "fY": 35.25658,
+                "iConf": 5,
+                "iLvl": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.66351,
+                    35.25658
+                ]
+            }
+        }
+    ]
+}
