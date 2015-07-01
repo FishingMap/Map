@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>example</title>
+<meta charset="UTF-8" />
+<style type="text/css">
+#map {
+	width: 500px;
+	height: 500px;
+}
+
+.SvgOverlay {
+	position: relative;
+	width: 500px;
+	height: 500px;           
+}
+
+.SvgOverlay svg {
+	position: absolute;
+	top: -4000px;
+	left: -4000px;
+	width: 8000px;
+	height: 8000px;        
+}
+
+.SvgOverlay path {
+	stroke: black;
+	stroke-width: 1px;
+	fill-opacity: .6;
+}
+</style>
+</head>
+<body>
+<div id="map"></div>
+
+
+
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+<script type="text/javascript">
+d3.json("../data/gunma_light.geojson", function(json) {
+	main(json);
+});
+
+function main(json) {
+	
+	//Google Map 初期化
+	var map = new google.maps.Map(document.getElementById('map'), {
+			zoom: 9,
+			mapTypeId: google.maps.MapTypeId.ROADMAP,
+			center: new google.maps.LatLng(35.556089, 139.6423959),       
+		});
+
+		
+	var overlay = new google.maps.OverlayView(); //OverLayオブジェクトの作成
+	overlay.onAdd = function () {
+		
+		//オーバーレイ設定
+		var layer = d3.select(this.getPanes().overlayLayer).append("div").attr("class", "SvgOverlay");
+		var svg = layer.append("svg");
+		var gunmalayer = svg.append("g").attr("class", "AdminDivisions");
+		var markerOverlay = this;
+		var overlayProjection = markerOverlay.getProjection();
+
+		//Google Projection作成
+		var googleMapProjection = function (coordinates) {
+			var googleCoordinates = new google.maps.LatLng(coordinates[1], coordinates[0]);
+			var pixelCoordinates = overlayProjection.fromLatLngToDivPixel(googleCoordinates);
+			return [pixelCoordinates.x + 4000, pixelCoordinates.y + 4000];
+		}
+
+		//パスジェネレーター作成
+		path = d3.geo.path().projection(googleMapProjection);　
+            
+		overlay.draw = function () {
+			
+			
+			//地図描く
+			gunmalayer.selectAll("path")
+				.data(json.features)
+				.attr("d", path) 
+			.enter().append("svg:path")
+				.attr("d", path)
+				.attr("class", function(d) { return "gunma" + d.id; })
+				.attr("fill", "blue");
+		
+		};
+
+	};
+
+	//作成したSVGを地図にオーバーレイする
+	overlay.setMap(map);
+	
+	//せっかくなんでアニメーションとかも付けてみる。
+	var anime = Anime();
+	setInterval(anime, 1000);
+		
+};
+function Anime(){			
+	var flag = true;
+	return function(){
+		if(flag){
+			d3.select(".gunma16").transition().attr("fill", "red");
+			flag = false;
+		}else{
+			d3.select(".gunma16").transition().attr("fill", "blue");
+			flag = true;
+		}
+	}
+
+}
+
+</script>
+</body>
+</html>
