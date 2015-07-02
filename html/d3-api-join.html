@@ -11,7 +11,7 @@
   <body>
   <div id="map-canvas"></div>
     <script type="text/javascript">
-			/*//Width and height
+			//Width and height
 			var w = screen.width;
 			var h = screen.height;
 			//Define map projection
@@ -43,8 +43,17 @@
 					.attr("cx", function (d) { return projection(d.geometry.coordinates)[0]; })
 					.attr("cy", function (d) { return projection(d.geometry.coordinates)[1]; })
 					.attr("r", "8px")
-					.attr("fill", "red");
-			});*/
+					.attr("fill", "red")
+										.on("mouseover", function(){
+						d3.select(this) // マウスに重なった要素を選択
+								.attr("style", "fill:rgb(0,0,255)");
+					})
+					.on("mouseout", function(){
+						d3.select(this) // マウスに重なっていた要素を選択
+								.attr("style", "fill:rgb(255,0,0)");
+					})
+					;
+			});
 
     </script>
   </body>
