@@ -28,6 +28,10 @@
 	stroke-width: 1px;
 	fill-opacity: .6;*/
 }
+.ShopCircle:hover{
+	cursor: pointer;
+	fill: black;
+}
 </style>
 </head>
 <body>
@@ -39,10 +43,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
 <script type="text/javascript">
 d3.json("../data/eat.geojson", function(json) {
-	main(json);
-});
 
-function main(json) {
 	
 	//Google Map 初期化
 	var map = new google.maps.Map(document.getElementById('map'), {
@@ -53,13 +54,14 @@ function main(json) {
 
 		
 	var overlay = new google.maps.OverlayView(); //OverLayオブジェクトの作成
+	//↑これにクリックイベント
 	overlay.onAdd = function () {
 		
 		//オーバーレイ設定
 		var layer = d3.select(this.getPanes().overlayLayer).append("div").attr("class", "SvgOverlay");
 		var svg = layer.append("svg");
 		var gunmalayer = svg.append("g").attr("class", "AdminDivisions");
-		var shoplayer = svg.append("g").attr("class", "AdminDivisions");
+		var shoplayer = svg.append("g").attr("class", "ShopCircle");
 		var markerOverlay = this;
 		var overlayProjection = markerOverlay.getProjection();
 
@@ -74,42 +76,27 @@ function main(json) {
 		path = d3.geo.path().projection(googleMapProjection);　
             
 		overlay.draw = function () {
-			
-			
-			//地図描く
-			d3.json("../data/gunma_light.geojson", function(gunmajson){
-				gunmalayer.selectAll("path")
-						.data(gunmajson.features)
-						.attr("d", path) 
-						.enter().append("svg:path")
-						.attr("d", path)
-						.attr("class", function(d) { return "gunma" + d.id; })
-						.attr("fill", "blue");
-			});
 
 		
 			shoplayer.selectAll("path")
 					.data(json.features)
 					.attr("d", path) 
-					.enter().append("svg:path")
+					.enter()
+					.append("svg:path")
 					.attr("d", path)
 					.attr("cx", function (d) { return googleMapProjection(d.geometry.coordinates)[0]; })
 					.attr("cy", function (d) { return googleMapProjection(d.geometry.coordinates)[1]; })
-					.attr("r", "8px")
-					.attr("fill", "red")
+					.attr("r", "20px")
+					.attr("fill", function(d) {
+						if(d.properties.タイプ=="飲食店"){return "blue";}
+						if(d.properties.タイプ=="スーパー"){return "yellow";}
+						if(d.properties.タイプ=="釣りパック"){return "purple";}
+						else{return "black";}
+					})
 					.on("mouseover", function(){
 						d3.select(this) // マウスに重なった要素を選択
-								.attr("style", "fill:rgb(0,0,255)");
-					})
-					.on("mouseout", function(){
-						d3.select(this) // マウスに重なっていた要素を選択
-								.attr("style", "fill:rgb(255,0,0)");
-					})
-					/*.if(d.properties.タイプ=="飲食店" function(data){
-							data.attr("fill", "red")
-					})*/
-					;
-					
+								.attr("style", "fill:rgb(0,0,0)");
+					})				
 		
 		};
 
@@ -122,7 +109,7 @@ function main(json) {
 	var anime = Anime();
 	setInterval(anime, 1000);
 		
-};
+});
 function Anime(){			
 	var flag = true;
 	return function(){

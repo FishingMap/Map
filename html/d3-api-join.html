@@ -44,14 +44,17 @@
 					.attr("cy", function (d) { return projection(d.geometry.coordinates)[1]; })
 					.attr("r", "50px")
 					.attr("fill", "red")
+					.attr("fill", function(d) {
+						if(d.properties.タイプ=="飲食店"){return "blue";}
+						if(d.properties.タイプ=="スーパー"){return "yellow";}
+						if(d.properties.タイプ=="釣りパック"){return "purple";}
+						else{return "black";}
+					})
 					.on("mouseover", function(){
 						d3.select(this) // マウスに重なった要素を選択
-								.attr("style", "fill:rgb(0,0,255)");
+								.attr("style", "fill:rgb(0,0,0)");
 					})
-					.on("mouseout", function(){
-						d3.select(this) // マウスに重なっていた要素を選択
-								.attr("style", "fill:rgb(255,0,0)");
-					})
+
 					;
 			});
 
