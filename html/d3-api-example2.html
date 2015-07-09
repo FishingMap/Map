@@ -70,6 +70,7 @@ html, body{
 	<p class="title">釣りマップ</p>
 	    釣り場:<input class="search" id="source" value="＊＊＊" type="text">
 	    絞り込み:<input class="search" id="target" value="＊＊＊" type="text">
+	<div id="info"></div>
 	<div id="googft-mapCanvas"></div>
 	<p style="color:black;font-size: 12px">開発中です。情報の信頼性は保証いたしかねます。</p>
 </div>
@@ -94,24 +95,19 @@ function initialize() {
 
 	//Directionsサービス
 	var directionsService = new google.maps.DirectionsService();
-	//情報ウインドウオブジェクト(学校名表示用)	
+	//情報ウインドウオブジェクト(＊＊＊データ表示用)	
 	var infoWnd = new google.maps.InfoWindow();
-	//ルート検索用
-	var directionsDisplay = new google.maps.DirectionsRenderer({
-		map : map
-	});
-
 
     
-	//交通危険個所データの読み込み
+	//飲食店データの読み込み
 	d3.csv('../data/eat.csv', function(data){
 
-		//ヒートマップ用のデータの作成
+		//飲食店マップ用のデータの作成
 		var bounds = new google.maps.LatLngBounds();
 		var pos, populations = [];
 
 		for (var i=0; i < data.length; i++) {
-			pos = new google.maps.LatLng(data[i]['fX'], data[i]['fY']);
+			pos = new google.maps.LatLng(data[i]['fY'], data[i]['fX']);
 			populations.push({
 			location : pos,
 			})
@@ -120,24 +116,10 @@ function initialize() {
 
 		//ヒートマップレイヤの追加
 		var heatmap = new google.maps.visualization.HeatmapLayer({
-			radius:160
+			radius:10
 		});
 		heatmap.setData(populations);
 		heatmap.setMap(map);
-
-
-		//ストリートビュー初期化
-		var streetViewDiv = document.getElementById("streetview-canvas");
-		var stOptions = {
-			pov: {
-			heading: 00,
-			pitch: 0,
-			zoom: 2
-			}
-		};
-		//ストリートビューオブジェクトの生成
-		var streetViewPanorama = new google.maps.StreetViewPanorama(streetViewDiv, stOptions);
-		var streetViewService = new google.maps.StreetViewService();
 
 		//OverLayオブジェクトの作成
 		var overlay = new google.maps.OverlayView(); 
@@ -167,6 +149,9 @@ function initialize() {
 				data.forEach(function(d) {     
 					positions.push(googleMapProjection([d['fX'], d['fY']])); //位置情報→ピクセル
 				});
+				
+				//パスジェネレーター作成
+				path = d3.geo.path().projection(googleMapProjection);　
 
 				//circle属性値設定
 				var circleAttr = {
@@ -179,59 +164,27 @@ function initialize() {
 					fill:"red"         
 				}
 
-				//危険個所ポイント(circle)表示
+				//飲食店ポイント(circle)表示
 				svgoverlay.selectAll("circle")
 					.data(data)
 					.attr(circleAttr)
 					.enter()
 					.append("svg:circle")
 					.attr(circleAttr)
-					.on("click", showStreetView); //クリックイベント設置
+					.on("click", showInfo); //クリックイベント設置
 					
-					//ストリートビュー表示
-					function showStreetView(d){
-						var latlng = new google.maps.LatLng(d['fX'], d['fY']);
-						streetViewPanorama.setVisible(false);
-						streetViewService.getPanoramaByLocation(latlng, 50, function(status){
-							if(status){
-								streetViewPanorama.setPosition(latlng);
-								streetViewPanorama.setVisible(true);
-							}else{
-								alert("StreetView 非対応エリアです");
-							};    
-						});
-						d3.select("#info").text("詳細情報："+d['名称']+" "+d['フリースペース']);
-					}				
+					//店舗情報を表示
+					function showInfo(d){
+						d3.select("#info")
+						    .html('詳細情報：'+d['店名']+' <a href="'+d['URL']+'">'+d['URL']+'</a>');
+					}					
 			}; 
 		};
 
 	//作成したSVGを地図にオーバーレイ
 	overlay.setMap(map);
 
-	}); //read koutsu.csv end        
-
-	
-
-    //交通情報レイヤ追加
-    //var trafficLayer = new google.maps.TrafficLayer();
-    //trafficLayer.setMap(map);
-	
-	
-	
-	
-    //ルート検索
-
-	function callback_direction(result, status) {
-		if (status == google.maps.DirectionsStatus.OK) {
-			//結果を地図に表示
-			directionsDisplay.setDirections(result);
-		}else{
-			//alert("ルート検索に失敗しました");
-		}
-	}	
-
-
-
+	}); //read eat.csv end
 
 }
 
